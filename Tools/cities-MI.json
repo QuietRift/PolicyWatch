@@ -1,0 +1,7643 @@
+{
+  "source": "cisagov/dotgov-data current-full.csv",
+  "state": "MI",
+  "captured": "2026-11-24T04:34:24+00:00",
+  "count": 543,
+  "cities": [
+    {
+      "id": "MI-addison-townhsip-leonard",
+      "name": "Addison Townhsip",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Leonard",
+      "domains": [
+        {
+          "domain": "addisontownshipmi.gov",
+          "org": "Addison Townhsip"
+        }
+      ],
+      "primary": "addisontownshipmi.gov"
+    },
+    {
+      "id": "MI-adrian-charter-township-adrian",
+      "name": "Adrian Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Adrian",
+      "domains": [
+        {
+          "domain": "adriantwpmi.gov",
+          "org": "Adrian Charter Township"
+        }
+      ],
+      "primary": "adriantwpmi.gov"
+    },
+    {
+      "id": "MI-alamo-township-kalamazoo",
+      "name": "Alamo Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Kalamazoo",
+      "domains": [
+        {
+          "domain": "alamotownshipmi.gov",
+          "org": "Alamo Township"
+        }
+      ],
+      "primary": "alamotownshipmi.gov"
+    },
+    {
+      "id": "MI-albion-township-albion",
+      "name": "Albion Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Albion",
+      "domains": [
+        {
+          "domain": "albiontwpmi.gov",
+          "org": "Albion Township"
+        }
+      ],
+      "primary": "albiontwpmi.gov"
+    },
+    {
+      "id": "MI-allendale-charter-township-allendale",
+      "name": "Allendale Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Allendale",
+      "domains": [
+        {
+          "domain": "allendalemi.gov",
+          "org": "Allendale Charter Township"
+        }
+      ],
+      "primary": "allendalemi.gov"
+    },
+    {
+      "id": "MI-almena-township-paw-paw",
+      "name": "Almena Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Paw Paw",
+      "domains": [
+        {
+          "domain": "almenatownship.gov",
+          "org": "Almena Township"
+        }
+      ],
+      "primary": "almenatownship.gov"
+    },
+    {
+      "id": "MI-almira-township-lake-ann",
+      "name": "Almira Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lake Ann",
+      "domains": [
+        {
+          "domain": "almiratownshipmi.gov",
+          "org": "Almira Township"
+        }
+      ],
+      "primary": "almiratownshipmi.gov"
+    },
+    {
+      "id": "MI-amber-township-scottville",
+      "name": "Amber Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Scottville",
+      "domains": [
+        {
+          "domain": "ambertwpmi.gov",
+          "org": "Amber Township"
+        }
+      ],
+      "primary": "ambertwpmi.gov"
+    },
+    {
+      "id": "MI-ann-arbor-charter-township-ann-arbor",
+      "name": "Ann Arbor Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ann Arbor",
+      "domains": [
+        {
+          "domain": "annarbortownship.gov",
+          "org": "Ann Arbor Charter Township"
+        }
+      ],
+      "primary": "annarbortownship.gov"
+    },
+    {
+      "id": "MI-antrim-township-morrice",
+      "name": "Antrim Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Morrice",
+      "domains": [
+        {
+          "domain": "antrimtownshipmi.gov",
+          "org": "Antrim Township"
+        }
+      ],
+      "primary": "antrimtownshipmi.gov"
+    },
+    {
+      "id": "MI-antwerp-township-mattawan",
+      "name": "Antwerp Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Mattawan",
+      "domains": [
+        {
+          "domain": "antwerptownshipmi.gov",
+          "org": "Antwerp Township"
+        }
+      ],
+      "primary": "antwerptownshipmi.gov"
+    },
+    {
+      "id": "MI-arcada-township-ithaca",
+      "name": "Arcada Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ithaca",
+      "domains": [
+        {
+          "domain": "arcadami.gov",
+          "org": "Arcada Township"
+        }
+      ],
+      "primary": "arcadami.gov"
+    },
+    {
+      "id": "MI-argentine-township-linden",
+      "name": "Argentine Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Linden",
+      "domains": [
+        {
+          "domain": "argentinetownship.gov",
+          "org": "Argentine Township"
+        }
+      ],
+      "primary": "argentinetownship.gov"
+    },
+    {
+      "id": "MI-armada-township-armada",
+      "name": "Armada Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Armada",
+      "domains": [
+        {
+          "domain": "armadatwp.gov",
+          "org": "Armada Township"
+        }
+      ],
+      "primary": "armadatwp.gov"
+    },
+    {
+      "id": "MI-assyria-township-bellevue",
+      "name": "Assyria Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Bellevue",
+      "domains": [
+        {
+          "domain": "assyriatwpmi.gov",
+          "org": "Assyria Township"
+        }
+      ],
+      "primary": "assyriatwpmi.gov"
+    },
+    {
+      "id": "MI-au-train-township-au-train",
+      "name": "Au Train Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Au Train",
+      "domains": [
+        {
+          "domain": "autraintownship.gov",
+          "org": "Au Train Township"
+        }
+      ],
+      "primary": "autraintownship.gov"
+    },
+    {
+      "id": "MI-ausable-township-ausable",
+      "name": "AuSable Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "AuSable",
+      "domains": [
+        {
+          "domain": "ausabletwp-mi.gov",
+          "org": "AuSable Township"
+        }
+      ],
+      "primary": "ausabletwp-mi.gov"
+    },
+    {
+      "id": "MI-austin-township-ubly",
+      "name": "Austin Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ubly",
+      "domains": [
+        {
+          "domain": "austintownshipsanilacmi.gov",
+          "org": "Austin Township"
+        }
+      ],
+      "primary": "austintownshipsanilacmi.gov"
+    },
+    {
+      "id": "MI-backus-township-roscommon-county-mi-saint-helen",
+      "name": "Backus Township, Roscommon County, MI",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "SAINT HELEN",
+      "domains": [
+        {
+          "domain": "backusmi.gov",
+          "org": "Backus Township, Roscommon County, MI"
+        }
+      ],
+      "primary": "backusmi.gov"
+    },
+    {
+      "id": "MI-bagley-township-gaylord",
+      "name": "Bagley Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Gaylord",
+      "domains": [
+        {
+          "domain": "bagleytownshipmi.gov",
+          "org": "Bagley Township"
+        }
+      ],
+      "primary": "bagleytownshipmi.gov"
+    },
+    {
+      "id": "MI-baldwin-township-tawas-city",
+      "name": "Baldwin Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "TAWAS CITY",
+      "domains": [
+        {
+          "domain": "baldwintwpiosco.gov",
+          "org": "Baldwin Township"
+        }
+      ],
+      "primary": "baldwintwpiosco.gov"
+    },
+    {
+      "id": "MI-banks-township-ellsworth",
+      "name": "Banks Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ellsworth",
+      "domains": [
+        {
+          "domain": "bankstownshipmi.gov",
+          "org": "Banks Township"
+        }
+      ],
+      "primary": "bankstownshipmi.gov"
+    },
+    {
+      "id": "MI-barry-township-delton",
+      "name": "Barry Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Delton",
+      "domains": [
+        {
+          "domain": "barrytownshipmi.gov",
+          "org": "Barry Township"
+        }
+      ],
+      "primary": "barrytownshipmi.gov"
+    },
+    {
+      "id": "MI-barry-township-police-department-delton",
+      "name": "Barry Township Police Department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Delton",
+      "domains": [
+        {
+          "domain": "barrytownshippdmi.gov",
+          "org": "Barry Township Police Department"
+        }
+      ],
+      "primary": "barrytownshippdmi.gov"
+    },
+    {
+      "id": "MI-batavia-township-coldwater",
+      "name": "Batavia Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Coldwater",
+      "domains": [
+        {
+          "domain": "bataviami.gov",
+          "org": "Batavia Township"
+        }
+      ],
+      "primary": "bataviami.gov"
+    },
+    {
+      "id": "MI-bear-creek-township-petoskey",
+      "name": "Bear Creek Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Petoskey",
+      "domains": [
+        {
+          "domain": "bearcreektownshipmi.gov",
+          "org": "Bear Creek Township"
+        }
+      ],
+      "primary": "bearcreektownshipmi.gov"
+    },
+    {
+      "id": "MI-beaugrand-township-cheboygan",
+      "name": "Beaugrand Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Cheboygan",
+      "domains": [
+        {
+          "domain": "beaugrandtwpmi.gov",
+          "org": "Beaugrand Township"
+        }
+      ],
+      "primary": "beaugrandtwpmi.gov"
+    },
+    {
+      "id": "MI-beaver-creek-township-grayling",
+      "name": "Beaver Creek Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Grayling",
+      "domains": [
+        {
+          "domain": "beavercreektwpmi.gov",
+          "org": "Beaver Creek Township"
+        }
+      ],
+      "primary": "beavercreektwpmi.gov"
+    },
+    {
+      "id": "MI-beaverton-township-beaverton",
+      "name": "Beaverton Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Beaverton",
+      "domains": [
+        {
+          "domain": "beavertontownshipmi.gov",
+          "org": "Beaverton Township"
+        }
+      ],
+      "primary": "beavertontownshipmi.gov"
+    },
+    {
+      "id": "MI-belvidere-township-six-lakes",
+      "name": "Belvidere Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Six Lakes",
+      "domains": [
+        {
+          "domain": "belvideretownshipmi.gov",
+          "org": "Belvidere Township"
+        }
+      ],
+      "primary": "belvideretownshipmi.gov"
+    },
+    {
+      "id": "MI-bengal-township-st-johns",
+      "name": "Bengal Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "St Johns",
+      "domains": [
+        {
+          "domain": "bengaltownshipmi.gov",
+          "org": "Bengal Township"
+        }
+      ],
+      "primary": "bengaltownshipmi.gov"
+    },
+    {
+      "id": "MI-bennington-township-owosso",
+      "name": "Bennington Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Owosso",
+      "domains": [
+        {
+          "domain": "benningtontownshipmi.gov",
+          "org": "Bennington Township"
+        }
+      ],
+      "primary": "benningtontownshipmi.gov"
+    },
+    {
+      "id": "MI-benona-township-shelby",
+      "name": "Benona Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Shelby",
+      "domains": [
+        {
+          "domain": "benonatownshipmi.gov",
+          "org": "Benona Township"
+        }
+      ],
+      "primary": "benonatownshipmi.gov"
+    },
+    {
+      "id": "MI-benton-charter-township-benton-harbor",
+      "name": "Benton Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Benton Harbor",
+      "domains": [
+        {
+          "domain": "bentonchartertownship-mi.gov",
+          "org": "Benton Charter Township"
+        }
+      ],
+      "primary": "bentonchartertownship-mi.gov"
+    },
+    {
+      "id": "MI-benzonia-township-benzonia",
+      "name": "Benzonia Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Benzonia",
+      "domains": [
+        {
+          "domain": "benzoniatownship.gov",
+          "org": "Benzonia Township"
+        }
+      ],
+      "primary": "benzoniatownship.gov"
+    },
+    {
+      "id": "MI-bergland-township-bergland",
+      "name": "Bergland Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Bergland",
+      "domains": [
+        {
+          "domain": "berglandmi.gov",
+          "org": "Bergland Township"
+        }
+      ],
+      "primary": "berglandmi.gov"
+    },
+    {
+      "id": "MI-berlin-township-ionia",
+      "name": "Berlin Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ionia",
+      "domains": [
+        {
+          "domain": "berlintwpioniami.gov",
+          "org": "Berlin Township"
+        }
+      ],
+      "primary": "berlintwpioniami.gov"
+    },
+    {
+      "id": "MI-berlin-township-allenton",
+      "name": "Berlin Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Allenton",
+      "domains": [
+        {
+          "domain": "berlintwpstclairmi.gov",
+          "org": "Berlin Township"
+        }
+      ],
+      "primary": "berlintwpstclairmi.gov"
+    },
+    {
+      "id": "MI-bertrand-charter-township-buchanan",
+      "name": "Bertrand Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Buchanan",
+      "domains": [
+        {
+          "domain": "bertrandtwpmi.gov",
+          "org": "Bertrand Charter Township"
+        }
+      ],
+      "primary": "bertrandtwpmi.gov"
+    },
+    {
+      "id": "MI-bethany-township-saint-louis",
+      "name": "Bethany Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Saint Louis",
+      "domains": [
+        {
+          "domain": "bethanytownshipmi.gov",
+          "org": "Bethany Township"
+        }
+      ],
+      "primary": "bethanytownshipmi.gov"
+    },
+    {
+      "id": "MI-big-rapids-charter-township-big-rapids",
+      "name": "Big Rapids Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Big Rapids",
+      "domains": [
+        {
+          "domain": "bigrapidstownshipmi.gov",
+          "org": "Big Rapids Charter Township"
+        }
+      ],
+      "primary": "bigrapidstownshipmi.gov"
+    },
+    {
+      "id": "MI-blair-township-grawn",
+      "name": "Blair Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Grawn",
+      "domains": [
+        {
+          "domain": "blairtownshipmi.gov",
+          "org": "Blair Township"
+        }
+      ],
+      "primary": "blairtownshipmi.gov"
+    },
+    {
+      "id": "MI-blendon-township-hudsonville",
+      "name": "Blendon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Hudsonville",
+      "domains": [
+        {
+          "domain": "blendontownship-mi.gov",
+          "org": "Blendon Township"
+        }
+      ],
+      "primary": "blendontownship-mi.gov"
+    },
+    {
+      "id": "MI-bloomingdale-township-bloomingdale",
+      "name": "Bloomingdale Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Bloomingdale",
+      "domains": [
+        {
+          "domain": "bloomingdaletownshipmi.gov",
+          "org": "Bloomingdale Township"
+        }
+      ],
+      "primary": "bloomingdaletownshipmi.gov"
+    },
+    {
+      "id": "MI-blue-lake-township-mancelona",
+      "name": "Blue Lake Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Mancelona",
+      "domains": [
+        {
+          "domain": "bluelaketwpkalkaska.gov",
+          "org": "Blue Lake Township"
+        }
+      ],
+      "primary": "bluelaketwpkalkaska.gov"
+    },
+    {
+      "id": "MI-bois-blanc-township-pointe-aux-pins",
+      "name": "Bois Blanc Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Pointe Aux Pins",
+      "domains": [
+        {
+          "domain": "boisblanctownship.gov",
+          "org": "Bois Blanc Township"
+        }
+      ],
+      "primary": "boisblanctownship.gov"
+    },
+    {
+      "id": "MI-boon-township-boon",
+      "name": "Boon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Boon",
+      "domains": [
+        {
+          "domain": "boontownshipmichigan.gov",
+          "org": "Boon Township"
+        }
+      ],
+      "primary": "boontownshipmichigan.gov"
+    },
+    {
+      "id": "MI-boston-township-saranac",
+      "name": "Boston Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Saranac",
+      "domains": [
+        {
+          "domain": "bostontwpmi.gov",
+          "org": "Boston Township"
+        }
+      ],
+      "primary": "bostontwpmi.gov"
+    },
+    {
+      "id": "MI-bourret-township-alger",
+      "name": "Bourret Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Alger",
+      "domains": [
+        {
+          "domain": "bourrettownship.gov",
+          "org": "Bourret Township"
+        }
+      ],
+      "primary": "bourrettownship.gov"
+    },
+    {
+      "id": "MI-boyne-valley-township-boyne-falls",
+      "name": "BOYNE VALLEY TOWNSHIP",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "BOYNE FALLS",
+      "domains": [
+        {
+          "domain": "boynevalleymi.gov",
+          "org": "BOYNE VALLEY TOWNSHIP"
+        }
+      ],
+      "primary": "boynevalleymi.gov"
+    },
+    {
+      "id": "MI-brandon-township-ortonville",
+      "name": "Brandon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ortonville",
+      "domains": [
+        {
+          "domain": "brandontwpmi.gov",
+          "org": "Brandon Township"
+        }
+      ],
+      "primary": "brandontwpmi.gov"
+    },
+    {
+      "id": "MI-bridgeton-township-grant",
+      "name": "Bridgeton Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Grant",
+      "domains": [
+        {
+          "domain": "bridgetontownshipmi.gov",
+          "org": "Bridgeton Township"
+        }
+      ],
+      "primary": "bridgetontownshipmi.gov"
+    },
+    {
+      "id": "MI-briley-township-atlanta",
+      "name": "Briley Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Atlanta",
+      "domains": [
+        {
+          "domain": "brileytownshipmi.gov",
+          "org": "Briley Township"
+        }
+      ],
+      "primary": "brileytownshipmi.gov"
+    },
+    {
+      "id": "MI-brooks-township-newaygo",
+      "name": "brooks township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Newaygo",
+      "domains": [
+        {
+          "domain": "brookstownshipmi.gov",
+          "org": "brooks township"
+        }
+      ],
+      "primary": "brookstownshipmi.gov"
+    },
+    {
+      "id": "MI-broomfield-township-remus",
+      "name": "Broomfield Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Remus",
+      "domains": [
+        {
+          "domain": "broomfieldtwpmi.gov",
+          "org": "Broomfield Township"
+        }
+      ],
+      "primary": "broomfieldtwpmi.gov"
+    },
+    {
+      "id": "MI-bruce-township-of-chippewa-county-dafter",
+      "name": "Bruce Township of Chippewa County",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Dafter",
+      "domains": [
+        {
+          "domain": "brucetwpchippewami.gov",
+          "org": "Bruce Township of Chippewa County"
+        }
+      ],
+      "primary": "brucetwpchippewami.gov"
+    },
+    {
+      "id": "MI-buchanan-charter-township-buchanan",
+      "name": "Buchanan Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Buchanan",
+      "domains": [
+        {
+          "domain": "buchanantwpmi.gov",
+          "org": "Buchanan Charter Township"
+        }
+      ],
+      "primary": "buchanantwpmi.gov"
+    },
+    {
+      "id": "MI-burt-township-cheboygan",
+      "name": "Burt Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Cheboygan",
+      "domains": [
+        {
+          "domain": "burtcheboyganmi.gov",
+          "org": "Burt Township"
+        }
+      ],
+      "primary": "burtcheboyganmi.gov"
+    },
+    {
+      "id": "MI-burt-township-grand-marais",
+      "name": "Burt Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Grand Marais",
+      "domains": [
+        {
+          "domain": "burttownshipacmi.gov",
+          "org": "Burt Township"
+        }
+      ],
+      "primary": "burttownshipacmi.gov"
+    },
+    {
+      "id": "MI-burtchville-township-burtchville",
+      "name": "Burtchville Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Burtchville",
+      "domains": [
+        {
+          "domain": "burtchvillemi.gov",
+          "org": "Burtchville Township"
+        }
+      ],
+      "primary": "burtchvillemi.gov"
+    },
+    {
+      "id": "MI-byron-township-byron-center",
+      "name": "Byron Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Byron Center",
+      "domains": [
+        {
+          "domain": "byrontwpmi.gov",
+          "org": "Byron Township"
+        }
+      ],
+      "primary": "byrontwpmi.gov"
+    },
+    {
+      "id": "MI-caledonia-township-owosso",
+      "name": "Caledonia Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Owosso",
+      "domains": [
+        {
+          "domain": "caledoniatwpscmi.gov",
+          "org": "Caledonia Township"
+        }
+      ],
+      "primary": "caledoniatwpscmi.gov"
+    },
+    {
+      "id": "MI-cambridge-township-onsted",
+      "name": "Cambridge Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Onsted",
+      "domains": [
+        {
+          "domain": "cambridgetownshipmi.gov",
+          "org": "Cambridge Township"
+        }
+      ],
+      "primary": "cambridgetownshipmi.gov"
+    },
+    {
+      "id": "MI-cannon-township-mi-rockford",
+      "name": "Cannon Township, MI",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "ROCKFORD",
+      "domains": [
+        {
+          "domain": "cannontwp.gov",
+          "org": "Cannon Township, MI"
+        }
+      ],
+      "primary": "cannontwp.gov"
+    },
+    {
+      "id": "MI-canton-township-canton",
+      "name": "Canton Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Canton",
+      "domains": [
+        {
+          "domain": "cantonmi.gov",
+          "org": "Canton Township"
+        }
+      ],
+      "primary": "cantonmi.gov"
+    },
+    {
+      "id": "MI-carmel-township-charlotte",
+      "name": "Carmel Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Charlotte",
+      "domains": [
+        {
+          "domain": "carmeltownship-mi.gov",
+          "org": "Carmel Township"
+        }
+      ],
+      "primary": "carmeltownship-mi.gov"
+    },
+    {
+      "id": "MI-casco-township-casco",
+      "name": "Casco Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "CASCO",
+      "domains": [
+        {
+          "domain": "cascostclair.gov",
+          "org": "Casco Township"
+        }
+      ],
+      "primary": "cascostclair.gov"
+    },
+    {
+      "id": "MI-casnovia-township-casnovia",
+      "name": "Casnovia Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Casnovia",
+      "domains": [
+        {
+          "domain": "casnoviatownshipmi.gov",
+          "org": "Casnovia Township"
+        }
+      ],
+      "primary": "casnoviatownshipmi.gov"
+    },
+    {
+      "id": "MI-cass-lake-village-west-bloomfield",
+      "name": "Cass Lake Village",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "West Bloomfield",
+      "domains": [
+        {
+          "domain": "casslakemi.gov",
+          "org": "Cass Lake Village"
+        }
+      ],
+      "primary": "casslakemi.gov"
+    },
+    {
+      "id": "MI-cato-township-lakeview",
+      "name": "CATO TOWNSHIP",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lakeview",
+      "domains": [
+        {
+          "domain": "catotownshipmi.gov",
+          "org": "CATO TOWNSHIP"
+        }
+      ],
+      "primary": "catotownshipmi.gov"
+    },
+    {
+      "id": "MI-central-lake-township-central-lake",
+      "name": "Central Lake Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Central Lake",
+      "domains": [
+        {
+          "domain": "centrallaketownshipmi.gov",
+          "org": "Central Lake Township"
+        }
+      ],
+      "primary": "centrallaketownshipmi.gov"
+    },
+    {
+      "id": "MI-charlevoix-township-charlevoix",
+      "name": "Charlevoix Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Charlevoix",
+      "domains": [
+        {
+          "domain": "charlevoixtownship.gov",
+          "org": "Charlevoix Township"
+        }
+      ],
+      "primary": "charlevoixtownship.gov"
+    },
+    {
+      "id": "MI-charter-township-of-bedford-battle-creek",
+      "name": "Charter Township of Bedford",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Battle Creek",
+      "domains": [
+        {
+          "domain": "bedfordchartertwpmi.gov",
+          "org": "Charter Township of Bedford"
+        }
+      ],
+      "primary": "bedfordchartertwpmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-bloomfield-bloomfield-hills",
+      "name": "Charter Township of Bloomfield",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Bloomfield Hills",
+      "domains": [
+        {
+          "domain": "bloomfieldtwpmi.gov",
+          "org": "Charter Township of Bloomfield"
+        }
+      ],
+      "primary": "bloomfieldtwpmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-breitung-quinnesec",
+      "name": "Charter Township of Breitung",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Quinnesec",
+      "domains": [
+        {
+          "domain": "breitungtownshipmi.gov",
+          "org": "Charter Township of Breitung"
+        }
+      ],
+      "primary": "breitungtownshipmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-brownstown-brownstown",
+      "name": "Charter Township of Brownstown",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Brownstown",
+      "domains": [
+        {
+          "domain": "brownstownmi.gov",
+          "org": "Charter Township of Brownstown"
+        }
+      ],
+      "primary": "brownstownmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-chocolay-marquette",
+      "name": "Charter Township of Chocolay",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Marquette",
+      "domains": [
+        {
+          "domain": "chocolay.gov",
+          "org": "Charter Township of Chocolay"
+        }
+      ],
+      "primary": "chocolay.gov"
+    },
+    {
+      "id": "MI-charter-township-of-clinton-clinton-township",
+      "name": "Charter Township of Clinton",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Clinton Township",
+      "domains": [
+        {
+          "domain": "clintontownship-mi.gov",
+          "org": "Charter Township of Clinton"
+        }
+      ],
+      "primary": "clintontownship-mi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-commerce-commerce-township",
+      "name": "Charter Township Of Commerce",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Commerce Township",
+      "domains": [
+        {
+          "domain": "commercetwpmi.gov",
+          "org": "Charter Township Of Commerce"
+        }
+      ],
+      "primary": "commercetwpmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-comstock-michigan-kalamazoo",
+      "name": "Charter Township of Comstock, Michigan",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Kalamazoo",
+      "domains": [
+        {
+          "domain": "comstockmi.gov",
+          "org": "Charter Township of Comstock, Michigan"
+        }
+      ],
+      "primary": "comstockmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-elmwood-traverse-city",
+      "name": "Charter Township of Elmwood",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Traverse City",
+      "domains": [
+        {
+          "domain": "elmwoodmi.gov",
+          "org": "Charter Township of Elmwood"
+        }
+      ],
+      "primary": "elmwoodmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-flushing-flushing",
+      "name": "Charter Township of Flushing",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Flushing",
+      "domains": [
+        {
+          "domain": "flushingtownshipmi.gov",
+          "org": "Charter Township of Flushing"
+        }
+      ],
+      "primary": "flushingtownshipmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-garfield-traverse-city",
+      "name": "Charter Township of Garfield",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Traverse City",
+      "domains": [
+        {
+          "domain": "garfieldmi.gov",
+          "org": "Charter Township of Garfield"
+        }
+      ],
+      "primary": "garfieldmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-harrison-michigan-harrison-township",
+      "name": "Charter Township of Harrison, Michigan",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Harrison Township",
+      "domains": [
+        {
+          "domain": "harrisontownshipmi.gov",
+          "org": "Charter Township of Harrison, Michigan"
+        }
+      ],
+      "primary": "harrisontownshipmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-independence-clarkston",
+      "name": "Charter Township of Independence",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Clarkston",
+      "domains": [
+        {
+          "domain": "indtwpmi.gov",
+          "org": "Charter Township of Independence"
+        }
+      ],
+      "primary": "indtwpmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-madison-adrian",
+      "name": "Charter Township of Madison",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Adrian",
+      "domains": [
+        {
+          "domain": "madisontwpmi.gov",
+          "org": "Charter Township of Madison"
+        }
+      ],
+      "primary": "madisontwpmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-milford-milford",
+      "name": "Charter Township of Milford",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Milford",
+      "domains": [
+        {
+          "domain": "milfordtwpmi.gov",
+          "org": "Charter Township of Milford"
+        },
+        {
+          "domain": "milfordfiremi.gov",
+          "org": "Charter Township of Milford"
+        }
+      ],
+      "primary": "milfordtwpmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-monitor-bay-city",
+      "name": "Charter Township of Monitor",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Bay City",
+      "domains": [
+        {
+          "domain": "monitortwp.gov",
+          "org": "Charter Township of Monitor"
+        }
+      ],
+      "primary": "monitortwp.gov"
+    },
+    {
+      "id": "MI-charter-township-of-mundy-swartz-creek",
+      "name": "Charter Township of Mundy",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Swartz Creek",
+      "domains": [
+        {
+          "domain": "mundytwp-mi.gov",
+          "org": "Charter Township of Mundy"
+        }
+      ],
+      "primary": "mundytwp-mi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-northville-northville",
+      "name": "Charter Township of Northville",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Northville",
+      "domains": [
+        {
+          "domain": "northvilletownshipmi.gov",
+          "org": "Charter Township of Northville"
+        }
+      ],
+      "primary": "northvilletownshipmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-oakland-rochester",
+      "name": "Charter Township of Oakland",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Rochester",
+      "domains": [
+        {
+          "domain": "oaklandtwpmi.gov",
+          "org": "Charter Township of Oakland"
+        }
+      ],
+      "primary": "oaklandtwpmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-oscoda-oscoda",
+      "name": "Charter Township of Oscoda",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Oscoda",
+      "domains": [
+        {
+          "domain": "oscodatownshipmi.gov",
+          "org": "Charter Township of Oscoda"
+        }
+      ],
+      "primary": "oscodatownshipmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-oxford-oxford",
+      "name": "Charter Township of Oxford",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Oxford",
+      "domains": [
+        {
+          "domain": "oxfordtwpmi.gov",
+          "org": "Charter Township of Oxford"
+        }
+      ],
+      "primary": "oxfordtwpmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-redford-redford",
+      "name": "Charter Township of Redford",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Redford",
+      "domains": [
+        {
+          "domain": "redfordtwp.gov",
+          "org": "Charter Township of Redford"
+        }
+      ],
+      "primary": "redfordtwp.gov"
+    },
+    {
+      "id": "MI-charter-township-of-vienna-clio",
+      "name": "Charter Township of Vienna",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Clio",
+      "domains": [
+        {
+          "domain": "viennatwpgc.gov",
+          "org": "Charter Township of Vienna"
+        }
+      ],
+      "primary": "viennatwpgc.gov"
+    },
+    {
+      "id": "MI-charter-township-of-waterford-waterford",
+      "name": "Charter Township of Waterford",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Waterford",
+      "domains": [
+        {
+          "domain": "waterfordmi.gov",
+          "org": "Charter Township of Waterford"
+        }
+      ],
+      "primary": "waterfordmi.gov"
+    },
+    {
+      "id": "MI-charter-township-of-ypsilanti-ypsilanti",
+      "name": "Charter Township of Ypsilanti",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ypsilanti",
+      "domains": [
+        {
+          "domain": "ypsitownship.gov",
+          "org": "Charter Township of Ypsilanti"
+        }
+      ],
+      "primary": "ypsitownship.gov"
+    },
+    {
+      "id": "MI-cheshire-township-allegan",
+      "name": "Cheshire Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Allegan",
+      "domains": [
+        {
+          "domain": "cheshiretownshipmi.gov",
+          "org": "Cheshire Township"
+        }
+      ],
+      "primary": "cheshiretownshipmi.gov"
+    },
+    {
+      "id": "MI-chester-township-conklin",
+      "name": "Chester Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Conklin",
+      "domains": [
+        {
+          "domain": "chesterottawami.gov",
+          "org": "Chester Township"
+        }
+      ],
+      "primary": "chesterottawami.gov"
+    },
+    {
+      "id": "MI-city-of-adrian-adrian",
+      "name": "City of Adrian",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Adrian",
+      "domains": [
+        {
+          "domain": "adrianmi.gov",
+          "org": "City of Adrian"
+        }
+      ],
+      "primary": "adrianmi.gov"
+    },
+    {
+      "id": "MI-city-of-albion-albion",
+      "name": "City of Albion",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Albion",
+      "domains": [
+        {
+          "domain": "cityofalbionmi.gov",
+          "org": "City of Albion"
+        }
+      ],
+      "primary": "cityofalbionmi.gov"
+    },
+    {
+      "id": "MI-city-of-algonac-algonac",
+      "name": "City of Algonac",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Algonac",
+      "domains": [
+        {
+          "domain": "algonac.gov",
+          "org": "City of Algonac"
+        }
+      ],
+      "primary": "algonac.gov"
+    },
+    {
+      "id": "MI-city-of-allen-park-allen-park",
+      "name": "City of Allen Park",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Allen Park",
+      "domains": [
+        {
+          "domain": "allenparkmi.gov",
+          "org": "City of Allen Park"
+        }
+      ],
+      "primary": "allenparkmi.gov"
+    },
+    {
+      "id": "MI-city-of-auburn-auburn",
+      "name": "City of Auburn",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Auburn",
+      "domains": [
+        {
+          "domain": "auburnmi.gov",
+          "org": "City of Auburn"
+        }
+      ],
+      "primary": "auburnmi.gov"
+    },
+    {
+      "id": "MI-city-of-bangor-bangor",
+      "name": "City of Bangor",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Bangor",
+      "domains": [
+        {
+          "domain": "cityofbangormi.gov",
+          "org": "City of Bangor"
+        }
+      ],
+      "primary": "cityofbangormi.gov"
+    },
+    {
+      "id": "MI-city-of-battle-creek-battle-creek",
+      "name": "City of Battle Creek",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Battle Creek",
+      "domains": [
+        {
+          "domain": "battlecreekmi.gov",
+          "org": "City of Battle Creek"
+        }
+      ],
+      "primary": "battlecreekmi.gov"
+    },
+    {
+      "id": "MI-city-of-bay-city-bay-city",
+      "name": "City of Bay City",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Bay City",
+      "domains": [
+        {
+          "domain": "baycitymi.gov",
+          "org": "City of Bay City"
+        }
+      ],
+      "primary": "baycitymi.gov"
+    },
+    {
+      "id": "MI-city-of-belding-belding",
+      "name": "City of Belding",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Belding",
+      "domains": [
+        {
+          "domain": "belding.gov",
+          "org": "City of Belding"
+        }
+      ],
+      "primary": "belding.gov"
+    },
+    {
+      "id": "MI-city-of-benton-harbor-benton-harbor",
+      "name": "City of Benton Harbor",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Benton Harbor",
+      "domains": [
+        {
+          "domain": "cityofbentonharbormi.gov",
+          "org": "City of Benton Harbor"
+        }
+      ],
+      "primary": "cityofbentonharbormi.gov"
+    },
+    {
+      "id": "MI-city-of-berkley-berkley",
+      "name": "City of Berkley",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Berkley",
+      "domains": [
+        {
+          "domain": "berkleymi.gov",
+          "org": "City of Berkley"
+        }
+      ],
+      "primary": "berkleymi.gov"
+    },
+    {
+      "id": "MI-city-of-bessemer-bessemer",
+      "name": "City of Bessemer",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Bessemer",
+      "domains": [
+        {
+          "domain": "cityofbessemermi.gov",
+          "org": "City of Bessemer"
+        }
+      ],
+      "primary": "cityofbessemermi.gov"
+    },
+    {
+      "id": "MI-city-of-big-rapids-big-rapids",
+      "name": "City of Big Rapids",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Big Rapids",
+      "domains": [
+        {
+          "domain": "bigrapids.gov",
+          "org": "City of Big Rapids"
+        }
+      ],
+      "primary": "bigrapids.gov"
+    },
+    {
+      "id": "MI-city-of-big-rapids-department-of-public-safety-big-rapids",
+      "name": "City of Big Rapids Department of Public Safety",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Big Rapids",
+      "domains": [
+        {
+          "domain": "bigrapidsdps.gov",
+          "org": "City of Big Rapids Department of Public Safety"
+        }
+      ],
+      "primary": "bigrapidsdps.gov"
+    },
+    {
+      "id": "MI-city-of-big-rapids-fire-division-big-rapids",
+      "name": "City of Big Rapids Fire Division",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Big Rapids",
+      "domains": [
+        {
+          "domain": "bigrapidsfire.gov",
+          "org": "City of Big Rapids Fire Division"
+        }
+      ],
+      "primary": "bigrapidsfire.gov"
+    },
+    {
+      "id": "MI-city-of-bloomfield-hills-bloomfield-hills",
+      "name": "City of Bloomfield Hills",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Bloomfield Hills",
+      "domains": [
+        {
+          "domain": "bloomfieldhills.gov",
+          "org": "City of Bloomfield Hills"
+        }
+      ],
+      "primary": "bloomfieldhills.gov"
+    },
+    {
+      "id": "MI-city-of-boyne-city-boyne-city",
+      "name": "City of Boyne City",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Boyne City",
+      "domains": [
+        {
+          "domain": "boynecity.gov",
+          "org": "City of Boyne City"
+        }
+      ],
+      "primary": "boynecity.gov"
+    },
+    {
+      "id": "MI-city-of-brighton-brighton",
+      "name": "City of Brighton",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Brighton",
+      "domains": [
+        {
+          "domain": "brightoncitymi.gov",
+          "org": "City of Brighton"
+        }
+      ],
+      "primary": "brightoncitymi.gov"
+    },
+    {
+      "id": "MI-city-of-brown-city-brown-city",
+      "name": "City of Brown City",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Brown City",
+      "domains": [
+        {
+          "domain": "cityofbrowncity.gov",
+          "org": "City of Brown City"
+        }
+      ],
+      "primary": "cityofbrowncity.gov"
+    },
+    {
+      "id": "MI-city-of-burton-burton",
+      "name": "City of Burton",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Burton",
+      "domains": [
+        {
+          "domain": "burtonmi.gov",
+          "org": "City of Burton"
+        }
+      ],
+      "primary": "burtonmi.gov"
+    },
+    {
+      "id": "MI-city-of-center-line-michigan-center-line",
+      "name": "City of Center Line, Michigan",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Center Line",
+      "domains": [
+        {
+          "domain": "centerline.gov",
+          "org": "City of Center Line, Michigan"
+        }
+      ],
+      "primary": "centerline.gov"
+    },
+    {
+      "id": "MI-city-of-charlevoix-charlevoix",
+      "name": "City of Charlevoix",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Charlevoix",
+      "domains": [
+        {
+          "domain": "charlevoixmi.gov",
+          "org": "City of Charlevoix"
+        }
+      ],
+      "primary": "charlevoixmi.gov"
+    },
+    {
+      "id": "MI-city-of-charlotte-charlotte",
+      "name": "City of Charlotte",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Charlotte",
+      "domains": [
+        {
+          "domain": "charlottemi.gov",
+          "org": "City of Charlotte"
+        }
+      ],
+      "primary": "charlottemi.gov"
+    },
+    {
+      "id": "MI-city-of-cheboygan-cheboygan",
+      "name": "City of Cheboygan",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Cheboygan",
+      "domains": [
+        {
+          "domain": "cheboygan.gov",
+          "org": "City of Cheboygan"
+        }
+      ],
+      "primary": "cheboygan.gov"
+    },
+    {
+      "id": "MI-city-of-clare-clare",
+      "name": "City of Clare",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Clare",
+      "domains": [
+        {
+          "domain": "cityofclare.gov",
+          "org": "City of Clare"
+        }
+      ],
+      "primary": "cityofclare.gov"
+    },
+    {
+      "id": "MI-city-of-clio-clio",
+      "name": "City of Clio",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Clio",
+      "domains": [
+        {
+          "domain": "cliomi.gov",
+          "org": "City of Clio"
+        }
+      ],
+      "primary": "cliomi.gov"
+    },
+    {
+      "id": "MI-city-of-coldwater-coldwater",
+      "name": "City Of Coldwater",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Coldwater",
+      "domains": [
+        {
+          "domain": "coldwatermi.gov",
+          "org": "City Of Coldwater"
+        }
+      ],
+      "primary": "coldwatermi.gov"
+    },
+    {
+      "id": "MI-city-of-corunna-corunna",
+      "name": "City of Corunna",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Corunna",
+      "domains": [
+        {
+          "domain": "corunna-mi.gov",
+          "org": "City of Corunna"
+        }
+      ],
+      "primary": "corunna-mi.gov"
+    },
+    {
+      "id": "MI-city-of-croswell-croswell",
+      "name": "City of Croswell",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Croswell",
+      "domains": [
+        {
+          "domain": "croswellmi.gov",
+          "org": "City of Croswell"
+        }
+      ],
+      "primary": "croswellmi.gov"
+    },
+    {
+      "id": "MI-city-of-davison-davison",
+      "name": "City of Davison",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Davison",
+      "domains": [
+        {
+          "domain": "cityofdavisonmi.gov",
+          "org": "City of Davison"
+        }
+      ],
+      "primary": "cityofdavisonmi.gov"
+    },
+    {
+      "id": "MI-city-of-dearborn-dearborn",
+      "name": "City of Dearborn",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Dearborn",
+      "domains": [
+        {
+          "domain": "dearborn.gov",
+          "org": "City of Dearborn"
+        }
+      ],
+      "primary": "dearborn.gov"
+    },
+    {
+      "id": "MI-city-of-dearborn-heights-dearborn-heights",
+      "name": "City of Dearborn Heights",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Dearborn Heights",
+      "domains": [
+        {
+          "domain": "dearbornheights.gov",
+          "org": "City of Dearborn Heights"
+        },
+        {
+          "domain": "dearbornheightsmi.gov",
+          "org": "City of Dearborn Heights"
+        }
+      ],
+      "primary": "dearbornheights.gov"
+    },
+    {
+      "id": "MI-city-of-detroit-detroit",
+      "name": "City of Detroit",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Detroit",
+      "domains": [
+        {
+          "domain": "detroit.gov",
+          "org": "City of Detroit"
+        },
+        {
+          "domain": "detroitmi.gov",
+          "org": "City of Detroit - ITSD"
+        }
+      ],
+      "primary": "detroit.gov"
+    },
+    {
+      "id": "MI-city-of-dewitt-dewitt",
+      "name": "City of DeWitt",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "DeWitt",
+      "domains": [
+        {
+          "domain": "dewittmi.gov",
+          "org": "City of DeWitt"
+        }
+      ],
+      "primary": "dewittmi.gov"
+    },
+    {
+      "id": "MI-city-of-dexter-dexter",
+      "name": "City of Dexter",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Dexter",
+      "domains": [
+        {
+          "domain": "dextermi.gov",
+          "org": "City of Dexter"
+        }
+      ],
+      "primary": "dextermi.gov"
+    },
+    {
+      "id": "MI-city-of-douglas-douglas",
+      "name": "City of Douglas",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Douglas",
+      "domains": [
+        {
+          "domain": "douglasmi.gov",
+          "org": "City of Douglas"
+        }
+      ],
+      "primary": "douglasmi.gov"
+    },
+    {
+      "id": "MI-city-of-east-grand-rapids-grand-rapids",
+      "name": "City of East Grand Rapids",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Grand Rapids",
+      "domains": [
+        {
+          "domain": "eastgrmi.gov",
+          "org": "City of East Grand Rapids"
+        }
+      ],
+      "primary": "eastgrmi.gov"
+    },
+    {
+      "id": "MI-city-of-eastpointe-eastpointe",
+      "name": "City of Eastpointe",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Eastpointe",
+      "domains": [
+        {
+          "domain": "eastpointemi.gov",
+          "org": "City of Eastpointe"
+        }
+      ],
+      "primary": "eastpointemi.gov"
+    },
+    {
+      "id": "MI-city-of-eaton-rapids-eaton-rapids",
+      "name": "City of Eaton Rapids",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Eaton Rapids",
+      "domains": [
+        {
+          "domain": "cityofeatonrapids.gov",
+          "org": "City of Eaton Rapids"
+        }
+      ],
+      "primary": "cityofeatonrapids.gov"
+    },
+    {
+      "id": "MI-city-of-ecorse-ecorse",
+      "name": "City of Ecorse",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Ecorse",
+      "domains": [
+        {
+          "domain": "ecorsemi.gov",
+          "org": "City of Ecorse"
+        }
+      ],
+      "primary": "ecorsemi.gov"
+    },
+    {
+      "id": "MI-city-of-essexville-essexville",
+      "name": "City of Essexville",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Essexville",
+      "domains": [
+        {
+          "domain": "essexville.gov",
+          "org": "City of Essexville"
+        }
+      ],
+      "primary": "essexville.gov"
+    },
+    {
+      "id": "MI-city-of-fennville-fennville",
+      "name": "City of Fennville",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Fennville",
+      "domains": [
+        {
+          "domain": "fennville.gov",
+          "org": "City of Fennville"
+        }
+      ],
+      "primary": "fennville.gov"
+    },
+    {
+      "id": "MI-city-of-ferndale-ferndale",
+      "name": "City of Ferndale",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Ferndale",
+      "domains": [
+        {
+          "domain": "ferndalemi.gov",
+          "org": "City of Ferndale"
+        }
+      ],
+      "primary": "ferndalemi.gov"
+    },
+    {
+      "id": "MI-city-of-frankenmuth-frankenmuth",
+      "name": "City of Frankenmuth",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Frankenmuth",
+      "domains": [
+        {
+          "domain": "frankenmuthcity.gov",
+          "org": "City of Frankenmuth"
+        }
+      ],
+      "primary": "frankenmuthcity.gov"
+    },
+    {
+      "id": "MI-city-of-fraser-fraser-mi-48026",
+      "name": "City of Fraser",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Fraser, MI 48026",
+      "domains": [
+        {
+          "domain": "frasercitymi.gov",
+          "org": "City of Fraser"
+        }
+      ],
+      "primary": "frasercitymi.gov"
+    },
+    {
+      "id": "MI-city-of-fremont-fremont",
+      "name": "City of Fremont",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Fremont",
+      "domains": [
+        {
+          "domain": "fremontmi.gov",
+          "org": "City of Fremont"
+        }
+      ],
+      "primary": "fremontmi.gov"
+    },
+    {
+      "id": "MI-city-of-gibraltar-gibraltar",
+      "name": "City of Gibraltar",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Gibraltar",
+      "domains": [
+        {
+          "domain": "cityofgibraltarmi.gov",
+          "org": "City of Gibraltar"
+        }
+      ],
+      "primary": "cityofgibraltarmi.gov"
+    },
+    {
+      "id": "MI-city-of-gladstone-gladstone",
+      "name": "City of Gladstone",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "GLADSTONE",
+      "domains": [
+        {
+          "domain": "gladstonemi.gov",
+          "org": "City of Gladstone"
+        }
+      ],
+      "primary": "gladstonemi.gov"
+    },
+    {
+      "id": "MI-city-of-grand-blanc-grand-blanc",
+      "name": "City Of Grand Blanc",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Grand Blanc",
+      "domains": [
+        {
+          "domain": "cityofgrandblancmi.gov",
+          "org": "City Of Grand Blanc"
+        }
+      ],
+      "primary": "cityofgrandblancmi.gov"
+    },
+    {
+      "id": "MI-city-of-grand-rapids-grand-rapids",
+      "name": "City of Grand Rapids",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Grand Rapids",
+      "domains": [
+        {
+          "domain": "grandrapidsmi.gov",
+          "org": "City of Grand Rapids"
+        }
+      ],
+      "primary": "grandrapidsmi.gov"
+    },
+    {
+      "id": "MI-city-of-grosse-pointe-grosse-pointe-city",
+      "name": "City of Grosse Pointe",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Grosse Pointe City",
+      "domains": [
+        {
+          "domain": "cityofgrossepointemi.gov",
+          "org": "City of Grosse Pointe"
+        }
+      ],
+      "primary": "cityofgrossepointemi.gov"
+    },
+    {
+      "id": "MI-city-of-grosse-pointe-farms-grosse-pointe-farms",
+      "name": "City of Grosse Pointe Farms",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Grosse Pointe Farms",
+      "domains": [
+        {
+          "domain": "grossepointefarms.gov",
+          "org": "City of Grosse Pointe Farms"
+        }
+      ],
+      "primary": "grossepointefarms.gov"
+    },
+    {
+      "id": "MI-city-of-hamtramck-hamtramck",
+      "name": "City of Hamtramck",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Hamtramck",
+      "domains": [
+        {
+          "domain": "hamtramckcity.gov",
+          "org": "City of Hamtramck"
+        }
+      ],
+      "primary": "hamtramckcity.gov"
+    },
+    {
+      "id": "MI-city-of-harrison-harrison",
+      "name": "City of Harrison",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Harrison",
+      "domains": [
+        {
+          "domain": "cityofharrison-mi.gov",
+          "org": "City of Harrison"
+        }
+      ],
+      "primary": "cityofharrison-mi.gov"
+    },
+    {
+      "id": "MI-city-of-hastings-hastings",
+      "name": "City of Hastings",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Hastings",
+      "domains": [
+        {
+          "domain": "hastingsmi.gov",
+          "org": "City of Hastings"
+        }
+      ],
+      "primary": "hastingsmi.gov"
+    },
+    {
+      "id": "MI-city-of-highland-city-highland-park",
+      "name": "City of Highland City",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Highland Park",
+      "domains": [
+        {
+          "domain": "highlandparkmi.gov",
+          "org": "City of Highland City"
+        }
+      ],
+      "primary": "highlandparkmi.gov"
+    },
+    {
+      "id": "MI-city-of-howell-howell",
+      "name": "CITY OF HOWELL",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "HOWELL",
+      "domains": [
+        {
+          "domain": "cityofhowell.gov",
+          "org": "CITY OF HOWELL"
+        }
+      ],
+      "primary": "cityofhowell.gov"
+    },
+    {
+      "id": "MI-city-of-inkster-inkster",
+      "name": "City of Inkster",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Inkster",
+      "domains": [
+        {
+          "domain": "cityofinkstermi.gov",
+          "org": "City of Inkster"
+        }
+      ],
+      "primary": "cityofinkstermi.gov"
+    },
+    {
+      "id": "MI-city-of-iron-mountain-iron-mountain",
+      "name": "City of Iron Mountain",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Iron Mountain",
+      "domains": [
+        {
+          "domain": "ironmountainmi.gov",
+          "org": "City of Iron Mountain"
+        }
+      ],
+      "primary": "ironmountainmi.gov"
+    },
+    {
+      "id": "MI-city-of-ironwood-ironwood",
+      "name": "City of Ironwood",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Ironwood",
+      "domains": [
+        {
+          "domain": "ironwoodmi.gov",
+          "org": "City of Ironwood"
+        }
+      ],
+      "primary": "ironwoodmi.gov"
+    },
+    {
+      "id": "MI-city-of-kalamazoo-kalamazoo",
+      "name": "City of Kalamazoo",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Kalamazoo",
+      "domains": [
+        {
+          "domain": "kalamazoocity.gov",
+          "org": "City of Kalamazoo"
+        }
+      ],
+      "primary": "kalamazoocity.gov"
+    },
+    {
+      "id": "MI-city-of-kingsford-kingsford",
+      "name": "City of Kingsford",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Kingsford",
+      "domains": [
+        {
+          "domain": "kingsfordmi.gov",
+          "org": "City of Kingsford"
+        }
+      ],
+      "primary": "kingsfordmi.gov"
+    },
+    {
+      "id": "MI-city-of-laingsburg-laingsburg",
+      "name": "City of Laingsburg",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "LAINGSBURG",
+      "domains": [
+        {
+          "domain": "laingsburg.gov",
+          "org": "City of Laingsburg"
+        }
+      ],
+      "primary": "laingsburg.gov"
+    },
+    {
+      "id": "MI-city-of-lansing-lansing",
+      "name": "City of Lansing",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Lansing",
+      "domains": [
+        {
+          "domain": "lansingmi.gov",
+          "org": "City of Lansing - Information Technology"
+        }
+      ],
+      "primary": "lansingmi.gov"
+    },
+    {
+      "id": "MI-city-of-lansing-city-clerk-s-office-lansing",
+      "name": "City of Lansing City Clerk's Office",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Lansing",
+      "domains": [
+        {
+          "domain": "lansingvotes.gov",
+          "org": "City of Lansing City Clerk's Office"
+        }
+      ],
+      "primary": "lansingvotes.gov"
+    },
+    {
+      "id": "MI-city-of-lapeer-lapeer",
+      "name": "City of Lapeer",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Lapeer",
+      "domains": [
+        {
+          "domain": "lapeercitymi.gov",
+          "org": "City of Lapeer"
+        }
+      ],
+      "primary": "lapeercitymi.gov"
+    },
+    {
+      "id": "MI-city-of-livonia-livonia",
+      "name": "City of Livonia",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Livonia",
+      "domains": [
+        {
+          "domain": "livonia.gov",
+          "org": "City of Livonia"
+        }
+      ],
+      "primary": "livonia.gov"
+    },
+    {
+      "id": "MI-city-of-lowell-lowell",
+      "name": "City of Lowell",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Lowell",
+      "domains": [
+        {
+          "domain": "lowellmi.gov",
+          "org": "City of Lowell"
+        }
+      ],
+      "primary": "lowellmi.gov"
+    },
+    {
+      "id": "MI-city-of-ludington-ludington",
+      "name": "City of Ludington",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Ludington",
+      "domains": [
+        {
+          "domain": "ludington-mi.gov",
+          "org": "City of Ludington"
+        }
+      ],
+      "primary": "ludington-mi.gov"
+    },
+    {
+      "id": "MI-city-of-madison-heights-madison-heights",
+      "name": "City of Madison Heights",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Madison Heights",
+      "domains": [
+        {
+          "domain": "madisonheightsmi.gov",
+          "org": "City of Madison Heights"
+        }
+      ],
+      "primary": "madisonheightsmi.gov"
+    },
+    {
+      "id": "MI-city-of-manistee-manistee",
+      "name": "City of Manistee",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Manistee",
+      "domains": [
+        {
+          "domain": "manisteemi.gov",
+          "org": "City of Manistee"
+        }
+      ],
+      "primary": "manisteemi.gov"
+    },
+    {
+      "id": "MI-city-of-manton-manton",
+      "name": "City of Manton",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Manton",
+      "domains": [
+        {
+          "domain": "mantonmi.gov",
+          "org": "City of Manton"
+        }
+      ],
+      "primary": "mantonmi.gov"
+    },
+    {
+      "id": "MI-city-of-marine-city-marine-city",
+      "name": "City of Marine City",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Marine City",
+      "domains": [
+        {
+          "domain": "marinecity.gov",
+          "org": "City of Marine City"
+        }
+      ],
+      "primary": "marinecity.gov"
+    },
+    {
+      "id": "MI-city-of-marlette-marlette",
+      "name": "City of Marlette",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Marlette",
+      "domains": [
+        {
+          "domain": "cityofmarlette.gov",
+          "org": "City of Marlette"
+        }
+      ],
+      "primary": "cityofmarlette.gov"
+    },
+    {
+      "id": "MI-city-of-marquette-marquette",
+      "name": "City of Marquette",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Marquette",
+      "domains": [
+        {
+          "domain": "marquettemi.gov",
+          "org": "City of Marquette"
+        }
+      ],
+      "primary": "marquettemi.gov"
+    },
+    {
+      "id": "MI-city-of-memphis-memphis",
+      "name": "City of Memphis",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Memphis",
+      "domains": [
+        {
+          "domain": "cityofmemphismi.gov",
+          "org": "City of Memphis"
+        }
+      ],
+      "primary": "cityofmemphismi.gov"
+    },
+    {
+      "id": "MI-city-of-menominee-menominee-city",
+      "name": "City of Menominee",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Menominee city",
+      "domains": [
+        {
+          "domain": "menomineemi.gov",
+          "org": "City of Menominee"
+        }
+      ],
+      "primary": "menomineemi.gov"
+    },
+    {
+      "id": "MI-city-of-midland-midland",
+      "name": "City of Midland",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Midland",
+      "domains": [
+        {
+          "domain": "cityofmidlandmi.gov",
+          "org": "City of Midland"
+        },
+        {
+          "domain": "cityofmidland-mi.gov",
+          "org": "City of Midland"
+        }
+      ],
+      "primary": "cityofmidlandmi.gov"
+    },
+    {
+      "id": "MI-city-of-milan-milan",
+      "name": "City of Milan",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Milan",
+      "domains": [
+        {
+          "domain": "milanmi.gov",
+          "org": "City of Milan"
+        }
+      ],
+      "primary": "milanmi.gov"
+    },
+    {
+      "id": "MI-city-of-monroe-monroe",
+      "name": "City of Monroe",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Monroe",
+      "domains": [
+        {
+          "domain": "monroemi.gov",
+          "org": "City of Monroe"
+        }
+      ],
+      "primary": "monroemi.gov"
+    },
+    {
+      "id": "MI-city-of-mount-clemens-mount-clemens",
+      "name": "City of Mount Clemens",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Mount Clemens",
+      "domains": [
+        {
+          "domain": "mountclemens.gov",
+          "org": "City of Mount Clemens"
+        }
+      ],
+      "primary": "mountclemens.gov"
+    },
+    {
+      "id": "MI-city-of-muskegon-muskegon",
+      "name": "CIty of Muskegon",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Muskegon",
+      "domains": [
+        {
+          "domain": "muskegon-mi.gov",
+          "org": "CIty of Muskegon"
+        }
+      ],
+      "primary": "muskegon-mi.gov"
+    },
+    {
+      "id": "MI-city-of-new-buffalo-new-buffalo",
+      "name": "City of New Buffalo",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "New Buffalo",
+      "domains": [
+        {
+          "domain": "cityofnewbuffalomi.gov",
+          "org": "City of New Buffalo"
+        }
+      ],
+      "primary": "cityofnewbuffalomi.gov"
+    },
+    {
+      "id": "MI-city-of-newaygo-newaygo",
+      "name": "City of Newaygo",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Newaygo",
+      "domains": [
+        {
+          "domain": "newaygo.gov",
+          "org": "City of Newaygo"
+        }
+      ],
+      "primary": "newaygo.gov"
+    },
+    {
+      "id": "MI-city-of-northville-northville",
+      "name": "City of Northville",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Northville",
+      "domains": [
+        {
+          "domain": "cityofnorthvillemi.gov",
+          "org": "City of Northville"
+        }
+      ],
+      "primary": "cityofnorthvillemi.gov"
+    },
+    {
+      "id": "MI-city-of-norway-norway",
+      "name": "City of Norway",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Norway",
+      "domains": [
+        {
+          "domain": "norwaymi.gov",
+          "org": "City of Norway"
+        }
+      ],
+      "primary": "norwaymi.gov"
+    },
+    {
+      "id": "MI-city-of-novi-novi",
+      "name": "City of Novi",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Novi",
+      "domains": [
+        {
+          "domain": "cityofnovi.gov",
+          "org": "City of Novi"
+        },
+        {
+          "domain": "cityofnovi-mi.gov",
+          "org": "City of Novi"
+        }
+      ],
+      "primary": "cityofnovi.gov"
+    },
+    {
+      "id": "MI-city-of-oak-park-oak-park",
+      "name": "City of Oak Park",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Oak Park",
+      "domains": [
+        {
+          "domain": "oakparkmi.gov",
+          "org": "City of Oak Park"
+        }
+      ],
+      "primary": "oakparkmi.gov"
+    },
+    {
+      "id": "MI-city-of-owosso-owosso",
+      "name": "City of Owosso",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Owosso",
+      "domains": [
+        {
+          "domain": "cityofowosso.gov",
+          "org": "City of Owosso"
+        }
+      ],
+      "primary": "cityofowosso.gov"
+    },
+    {
+      "id": "MI-city-of-petersburg-petersburg",
+      "name": "City of Petersburg",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Petersburg",
+      "domains": [
+        {
+          "domain": "petersburgmi.gov",
+          "org": "City of Petersburg"
+        }
+      ],
+      "primary": "petersburgmi.gov"
+    },
+    {
+      "id": "MI-city-of-pinconning-pinconning",
+      "name": "City of Pinconning",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Pinconning",
+      "domains": [
+        {
+          "domain": "cityofpinconningmi.gov",
+          "org": "City of Pinconning"
+        }
+      ],
+      "primary": "cityofpinconningmi.gov"
+    },
+    {
+      "id": "MI-city-of-pleasant-ridge-pleasant-ridge",
+      "name": "City of Pleasant Ridge",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Pleasant Ridge",
+      "domains": [
+        {
+          "domain": "cityofpleasantridge.gov",
+          "org": "City of Pleasant Ridge"
+        }
+      ],
+      "primary": "cityofpleasantridge.gov"
+    },
+    {
+      "id": "MI-city-of-plymouth-plymouth",
+      "name": "City of Plymouth",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Plymouth",
+      "domains": [
+        {
+          "domain": "plymouthmi.gov",
+          "org": "City of Plymouth"
+        }
+      ],
+      "primary": "plymouthmi.gov"
+    },
+    {
+      "id": "MI-city-of-pontiac-pontiac",
+      "name": "City of Pontiac",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Pontiac",
+      "domains": [
+        {
+          "domain": "pontiacmi.gov",
+          "org": "City of Pontiac"
+        }
+      ],
+      "primary": "pontiacmi.gov"
+    },
+    {
+      "id": "MI-city-of-portage-portage",
+      "name": "City of Portage",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Portage",
+      "domains": [
+        {
+          "domain": "portagemi.gov",
+          "org": "City of Portage"
+        },
+        {
+          "domain": "portage-mi.gov",
+          "org": "City of Portage"
+        }
+      ],
+      "primary": "portagemi.gov"
+    },
+    {
+      "id": "MI-city-of-roosevelt-park-muskegon",
+      "name": "City of Roosevelt Park",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Muskegon",
+      "domains": [
+        {
+          "domain": "rooseveltpark.gov",
+          "org": "City of Roosevelt Park"
+        }
+      ],
+      "primary": "rooseveltpark.gov"
+    },
+    {
+      "id": "MI-city-of-roseville-roseville",
+      "name": "City of Roseville",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Roseville",
+      "domains": [
+        {
+          "domain": "roseville-mi.gov",
+          "org": "City of Roseville"
+        }
+      ],
+      "primary": "roseville-mi.gov"
+    },
+    {
+      "id": "MI-city-of-roseville-police-department-roseville",
+      "name": "City of Roseville Police Department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Roseville",
+      "domains": [
+        {
+          "domain": "rosevillepolice-mi.gov",
+          "org": "City of Roseville Police Department"
+        }
+      ],
+      "primary": "rosevillepolice-mi.gov"
+    },
+    {
+      "id": "MI-city-of-royal-oak-royal-oak",
+      "name": "City of Royal Oak",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Royal Oak",
+      "domains": [
+        {
+          "domain": "romi.gov",
+          "org": "City of Royal Oak"
+        },
+        {
+          "domain": "royaloakmi.gov",
+          "org": "City of Royal Oak"
+        }
+      ],
+      "primary": "romi.gov"
+    },
+    {
+      "id": "MI-city-of-saginaw-saginaw",
+      "name": "City of Saginaw",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Saginaw",
+      "domains": [
+        {
+          "domain": "cityofsaginawmi.gov",
+          "org": "City of Saginaw"
+        }
+      ],
+      "primary": "cityofsaginawmi.gov"
+    },
+    {
+      "id": "MI-city-of-saline-saline",
+      "name": "City of Saline",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Saline",
+      "domains": [
+        {
+          "domain": "salinemi.gov",
+          "org": "City of Saline"
+        }
+      ],
+      "primary": "salinemi.gov"
+    },
+    {
+      "id": "MI-city-of-south-haven-south-haven",
+      "name": "City of South Haven",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "South Haven",
+      "domains": [
+        {
+          "domain": "southhavenmi.gov",
+          "org": "City of South Haven"
+        }
+      ],
+      "primary": "southhavenmi.gov"
+    },
+    {
+      "id": "MI-city-of-southgate-southgate",
+      "name": "City of Southgate",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Southgate",
+      "domains": [
+        {
+          "domain": "southgatemi.gov",
+          "org": "City of Southgate"
+        }
+      ],
+      "primary": "southgatemi.gov"
+    },
+    {
+      "id": "MI-city-of-st-clair-st-clair",
+      "name": "City of St. Clair",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "St. Clair",
+      "domains": [
+        {
+          "domain": "cityofstclairmi.gov",
+          "org": "City of St. Clair"
+        }
+      ],
+      "primary": "cityofstclairmi.gov"
+    },
+    {
+      "id": "MI-city-of-st-johns-saint-johns",
+      "name": "City of St. Johns",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Saint Johns",
+      "domains": [
+        {
+          "domain": "stjohnsmi.gov",
+          "org": "City of St. Johns"
+        }
+      ],
+      "primary": "stjohnsmi.gov"
+    },
+    {
+      "id": "MI-city-of-sterling-heights-sterling-heights",
+      "name": "City of Sterling Heights",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Sterling Heights",
+      "domains": [
+        {
+          "domain": "sterlingheights.gov",
+          "org": "City of Sterling Heights"
+        },
+        {
+          "domain": "sterlingheightsmi.gov",
+          "org": "City of Sterling Heights"
+        }
+      ],
+      "primary": "sterlingheights.gov"
+    },
+    {
+      "id": "MI-city-of-sturgis-sturgis",
+      "name": "City of Sturgis",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Sturgis",
+      "domains": [
+        {
+          "domain": "sturgismi.gov",
+          "org": "City of Sturgis"
+        }
+      ],
+      "primary": "sturgismi.gov"
+    },
+    {
+      "id": "MI-city-of-swartz-creek-swartz-creek",
+      "name": "City of Swartz Creek",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Swartz Creek",
+      "domains": [
+        {
+          "domain": "cityofswartzcreekmi.gov",
+          "org": "City of Swartz Creek"
+        }
+      ],
+      "primary": "cityofswartzcreekmi.gov"
+    },
+    {
+      "id": "MI-city-of-taylor-taylor",
+      "name": "City of Taylor",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Taylor",
+      "domains": [
+        {
+          "domain": "cityoftaylormi.gov",
+          "org": "City of Taylor"
+        }
+      ],
+      "primary": "cityoftaylormi.gov"
+    },
+    {
+      "id": "MI-city-of-tecumseh-tecumseh",
+      "name": "City of Tecumseh",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Tecumseh",
+      "domains": [
+        {
+          "domain": "tecumsehmi.gov",
+          "org": "City of Tecumseh"
+        }
+      ],
+      "primary": "tecumsehmi.gov"
+    },
+    {
+      "id": "MI-city-of-traverse-city-traverse-city",
+      "name": "City of Traverse City",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Traverse City",
+      "domains": [
+        {
+          "domain": "traversecitymi.gov",
+          "org": "City of Traverse City"
+        }
+      ],
+      "primary": "traversecitymi.gov"
+    },
+    {
+      "id": "MI-city-of-troy-troy",
+      "name": "City of Troy",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Troy",
+      "domains": [
+        {
+          "domain": "troymi.gov",
+          "org": "City of Troy"
+        }
+      ],
+      "primary": "troymi.gov"
+    },
+    {
+      "id": "MI-city-of-vassar-vassar",
+      "name": "City of Vassar",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Vassar",
+      "domains": [
+        {
+          "domain": "cityofvassar.gov",
+          "org": "City of Vassar"
+        }
+      ],
+      "primary": "cityofvassar.gov"
+    },
+    {
+      "id": "MI-city-of-wakefield-wakefield",
+      "name": "City of Wakefield",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Wakefield",
+      "domains": [
+        {
+          "domain": "cityofwakefieldmi.gov",
+          "org": "City of Wakefield"
+        }
+      ],
+      "primary": "cityofwakefieldmi.gov"
+    },
+    {
+      "id": "MI-city-of-walker-grand-rapids",
+      "name": "City of Walker",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Grand Rapids",
+      "domains": [
+        {
+          "domain": "walkermi.gov",
+          "org": "City of Walker"
+        }
+      ],
+      "primary": "walkermi.gov"
+    },
+    {
+      "id": "MI-city-of-warren-warren",
+      "name": "City of Warren",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Warren",
+      "domains": [
+        {
+          "domain": "warrenmi.gov",
+          "org": "City of Warren"
+        }
+      ],
+      "primary": "warrenmi.gov"
+    },
+    {
+      "id": "MI-city-of-williamston-williamston",
+      "name": "City of Williamston",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Williamston",
+      "domains": [
+        {
+          "domain": "williamstonmi.gov",
+          "org": "City of Williamston"
+        }
+      ],
+      "primary": "williamstonmi.gov"
+    },
+    {
+      "id": "MI-city-of-woodhaven-woodhaven",
+      "name": "City of Woodhaven",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Woodhaven",
+      "domains": [
+        {
+          "domain": "woodhavenmi.gov",
+          "org": "City of Woodhaven"
+        }
+      ],
+      "primary": "woodhavenmi.gov"
+    },
+    {
+      "id": "MI-city-of-wyandotte-wyandotte",
+      "name": "City of Wyandotte",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Wyandotte",
+      "domains": [
+        {
+          "domain": "wyandottemi.gov",
+          "org": "City of Wyandotte"
+        }
+      ],
+      "primary": "wyandottemi.gov"
+    },
+    {
+      "id": "MI-city-of-wyoming-wyoming",
+      "name": "City of Wyoming",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Wyoming",
+      "domains": [
+        {
+          "domain": "wyomingmi.gov",
+          "org": "City of Wyoming"
+        }
+      ],
+      "primary": "wyomingmi.gov"
+    },
+    {
+      "id": "MI-city-of-zilwaukee-zilwaukee",
+      "name": "City Of Zilwaukee",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Zilwaukee",
+      "domains": [
+        {
+          "domain": "zilwaukeemichigan.gov",
+          "org": "City Of Zilwaukee"
+        }
+      ],
+      "primary": "zilwaukeemichigan.gov"
+    },
+    {
+      "id": "MI-clark-township-cedarville",
+      "name": "Clark Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Cedarville",
+      "domains": [
+        {
+          "domain": "clarktwpmi.gov",
+          "org": "Clark Township"
+        }
+      ],
+      "primary": "clarktwpmi.gov"
+    },
+    {
+      "id": "MI-clay-township-of-inc-algonac",
+      "name": "CLAY, TOWNSHIP OF INC",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Algonac",
+      "domains": [
+        {
+          "domain": "claytwpmi.gov",
+          "org": "CLAY, TOWNSHIP OF INC"
+        }
+      ],
+      "primary": "claytwpmi.gov"
+    },
+    {
+      "id": "MI-cohoctah-township-fowlerville",
+      "name": "Cohoctah Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Fowlerville",
+      "domains": [
+        {
+          "domain": "cohoctahtownship.gov",
+          "org": "Cohoctah Township"
+        }
+      ],
+      "primary": "cohoctahtownship.gov"
+    },
+    {
+      "id": "MI-coldsprings-township-mancelona",
+      "name": "Coldsprings Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Mancelona",
+      "domains": [
+        {
+          "domain": "coldspringstownshipmi.gov",
+          "org": "Coldsprings Township"
+        }
+      ],
+      "primary": "coldspringstownshipmi.gov"
+    },
+    {
+      "id": "MI-colfax-township-mecosta-county-big-rapids",
+      "name": "Colfax Township Mecosta County",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Big Rapids",
+      "domains": [
+        {
+          "domain": "colfaxtwpmecosta.gov",
+          "org": "Colfax Township Mecosta County"
+        }
+      ],
+      "primary": "colfaxtwpmecosta.gov"
+    },
+    {
+      "id": "MI-columbia-township-grand-junction",
+      "name": "Columbia Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Grand Junction",
+      "domains": [
+        {
+          "domain": "columbiatwpmi.gov",
+          "org": "Columbia Township"
+        }
+      ],
+      "primary": "columbiatwpmi.gov"
+    },
+    {
+      "id": "MI-columbus-township-hall-columbus",
+      "name": "Columbus Township Hall",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Columbus",
+      "domains": [
+        {
+          "domain": "columbustwpmi.gov",
+          "org": "Columbus Township Hall"
+        }
+      ],
+      "primary": "columbustwpmi.gov"
+    },
+    {
+      "id": "MI-concord-township-concord",
+      "name": "Concord Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Concord",
+      "domains": [
+        {
+          "domain": "concordtownshipmi.gov",
+          "org": "Concord Township"
+        }
+      ],
+      "primary": "concordtownshipmi.gov"
+    },
+    {
+      "id": "MI-conway-township-fowlerville",
+      "name": "Conway Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Fowlerville",
+      "domains": [
+        {
+          "domain": "conwaymi.gov",
+          "org": "Conway Township"
+        }
+      ],
+      "primary": "conwaymi.gov"
+    },
+    {
+      "id": "MI-cottrellville-township-cottrellville-twp",
+      "name": "Cottrellville Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Cottrellville Twp.",
+      "domains": [
+        {
+          "domain": "cottrellvilletwp.gov",
+          "org": "Cottrellville Township"
+        }
+      ],
+      "primary": "cottrellvilletwp.gov"
+    },
+    {
+      "id": "MI-courtland-township-rockford",
+      "name": "Courtland Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Rockford",
+      "domains": [
+        {
+          "domain": "courtlandtwpmi.gov",
+          "org": "Courtland Township"
+        }
+      ],
+      "primary": "courtlandtwpmi.gov"
+    },
+    {
+      "id": "MI-covert-township-covert",
+      "name": "Covert Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Covert",
+      "domains": [
+        {
+          "domain": "coverttownshipmi.gov",
+          "org": "Covert Township"
+        }
+      ],
+      "primary": "coverttownshipmi.gov"
+    },
+    {
+      "id": "MI-crockery-township-hall-nunica",
+      "name": "Crockery Township Hall",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Nunica",
+      "domains": [
+        {
+          "domain": "crockerytownship.gov",
+          "org": "Crockery Township Hall"
+        }
+      ],
+      "primary": "crockerytownship.gov"
+    },
+    {
+      "id": "MI-dalton-township-muskegon",
+      "name": "Dalton Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Muskegon",
+      "domains": [
+        {
+          "domain": "daltonmi.gov",
+          "org": "Dalton Township"
+        }
+      ],
+      "primary": "daltonmi.gov"
+    },
+    {
+      "id": "MI-danby-township-sunfield",
+      "name": "Danby Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Sunfield",
+      "domains": [
+        {
+          "domain": "danbytownshipmi.gov",
+          "org": "Danby Township"
+        }
+      ],
+      "primary": "danbytownshipmi.gov"
+    },
+    {
+      "id": "MI-delaware-township-minden-city",
+      "name": "Delaware Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Minden City",
+      "domains": [
+        {
+          "domain": "delawaretwpmi.gov",
+          "org": "Delaware Township"
+        }
+      ],
+      "primary": "delawaretwpmi.gov"
+    },
+    {
+      "id": "MI-delhi-charter-township-holt",
+      "name": "Delhi Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Holt",
+      "domains": [
+        {
+          "domain": "delhitownshipmi.gov",
+          "org": "Delhi Charter Township"
+        }
+      ],
+      "primary": "delhitownshipmi.gov"
+    },
+    {
+      "id": "MI-delta-charter-township-lansing",
+      "name": "Delta Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lansing",
+      "domains": [
+        {
+          "domain": "deltami.gov",
+          "org": "Delta Charter Township"
+        }
+      ],
+      "primary": "deltami.gov"
+    },
+    {
+      "id": "MI-denmark-township-richville",
+      "name": "Denmark Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Richville",
+      "domains": [
+        {
+          "domain": "denmarktownshipmi.gov",
+          "org": "Denmark Township"
+        }
+      ],
+      "primary": "denmarktownshipmi.gov"
+    },
+    {
+      "id": "MI-denton-township-prudenville",
+      "name": "Denton Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Prudenville",
+      "domains": [
+        {
+          "domain": "dentontownshipmi.gov",
+          "org": "Denton Township"
+        }
+      ],
+      "primary": "dentontownshipmi.gov"
+    },
+    {
+      "id": "MI-denver-township-mt-pleasant",
+      "name": "Denver Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Mt Pleasant",
+      "domains": [
+        {
+          "domain": "denvericmi.gov",
+          "org": "Denver Township"
+        }
+      ],
+      "primary": "denvericmi.gov"
+    },
+    {
+      "id": "MI-detour-village-detour-village",
+      "name": "DeTour Village",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "DeTour Village",
+      "domains": [
+        {
+          "domain": "detourmi.gov",
+          "org": "DeTour Village"
+        }
+      ],
+      "primary": "detourmi.gov"
+    },
+    {
+      "id": "MI-dewitt-charter-township-dewitt",
+      "name": "DeWitt Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "DeWitt",
+      "domains": [
+        {
+          "domain": "dewitttownship.gov",
+          "org": "DeWitt Charter Township"
+        }
+      ],
+      "primary": "dewitttownship.gov"
+    },
+    {
+      "id": "MI-dexter-township-dexter",
+      "name": "Dexter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Dexter",
+      "domains": [
+        {
+          "domain": "dextertownshipmi.gov",
+          "org": "Dexter Township"
+        }
+      ],
+      "primary": "dextertownshipmi.gov"
+    },
+    {
+      "id": "MI-dorr-township-dorr",
+      "name": "Dorr Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Dorr",
+      "domains": [
+        {
+          "domain": "dorrtownshipmi.gov",
+          "org": "Dorr Township"
+        }
+      ],
+      "primary": "dorrtownshipmi.gov"
+    },
+    {
+      "id": "MI-douglass-township-stanton",
+      "name": "Douglass Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Stanton",
+      "domains": [
+        {
+          "domain": "douglasstwpmi.gov",
+          "org": "Douglass Township"
+        }
+      ],
+      "primary": "douglasstwpmi.gov"
+    },
+    {
+      "id": "MI-dover-township-gaylord",
+      "name": "Dover Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Gaylord",
+      "domains": [
+        {
+          "domain": "dovertwp-otsegomi.gov",
+          "org": "Dover Township"
+        }
+      ],
+      "primary": "dovertwp-otsegomi.gov"
+    },
+    {
+      "id": "MI-eagle-township-eagle",
+      "name": "Eagle township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Eagle",
+      "domains": [
+        {
+          "domain": "eagletownshipmi.gov",
+          "org": "Eagle township"
+        }
+      ],
+      "primary": "eagletownshipmi.gov"
+    },
+    {
+      "id": "MI-echo-township-east-jordan",
+      "name": "Echo Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "East Jordan",
+      "domains": [
+        {
+          "domain": "echotwpmi.gov",
+          "org": "Echo Township"
+        }
+      ],
+      "primary": "echotwpmi.gov"
+    },
+    {
+      "id": "MI-eckford-township-marshall",
+      "name": "Eckford Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Marshall",
+      "domains": [
+        {
+          "domain": "eckfordtownshipmi.gov",
+          "org": "Eckford Township"
+        }
+      ],
+      "primary": "eckfordtownshipmi.gov"
+    },
+    {
+      "id": "MI-edenville-township-edenville",
+      "name": "Edenville Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Edenville",
+      "domains": [
+        {
+          "domain": "edenvilletwpmi.gov",
+          "org": "Edenville Township"
+        }
+      ],
+      "primary": "edenvilletwpmi.gov"
+    },
+    {
+      "id": "MI-emmett-township-emmett",
+      "name": "Emmett Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Emmett",
+      "domains": [
+        {
+          "domain": "emmetttwpstclairmi.gov",
+          "org": "Emmett Township"
+        }
+      ],
+      "primary": "emmetttwpstclairmi.gov"
+    },
+    {
+      "id": "MI-erie-township-erie",
+      "name": "Erie Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Erie",
+      "domains": [
+        {
+          "domain": "erietownshipmi.gov",
+          "org": "Erie Township"
+        }
+      ],
+      "primary": "erietownshipmi.gov"
+    },
+    {
+      "id": "MI-erwin-township-ironwood",
+      "name": "Erwin Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ironwood",
+      "domains": [
+        {
+          "domain": "erwinmi.gov",
+          "org": "Erwin Township"
+        }
+      ],
+      "primary": "erwinmi.gov"
+    },
+    {
+      "id": "MI-escanaba-township-gladstone",
+      "name": "Escanaba Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Gladstone",
+      "domains": [
+        {
+          "domain": "escanabatownshipmi.gov",
+          "org": "Escanaba Township"
+        }
+      ],
+      "primary": "escanabatownshipmi.gov"
+    },
+    {
+      "id": "MI-eureka-township-greenville",
+      "name": "Eureka Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Greenville",
+      "domains": [
+        {
+          "domain": "eurekatownshipmi.gov",
+          "org": "Eureka Township"
+        }
+      ],
+      "primary": "eurekatownshipmi.gov"
+    },
+    {
+      "id": "MI-fairfield-township-jasper",
+      "name": "Fairfield Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Jasper",
+      "domains": [
+        {
+          "domain": "fairfieldtwplenaweemi.gov",
+          "org": "Fairfield Township"
+        }
+      ],
+      "primary": "fairfieldtwplenaweemi.gov"
+    },
+    {
+      "id": "MI-felch-township-felch",
+      "name": "Felch Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Felch",
+      "domains": [
+        {
+          "domain": "felchtownship.gov",
+          "org": "Felch Township"
+        }
+      ],
+      "primary": "felchtownship.gov"
+    },
+    {
+      "id": "MI-filer-township-manistee",
+      "name": "Filer Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Manistee",
+      "domains": [
+        {
+          "domain": "filertwpmi.gov",
+          "org": "Filer Township"
+        }
+      ],
+      "primary": "filertwpmi.gov"
+    },
+    {
+      "id": "MI-fork-township-barryton",
+      "name": "Fork Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Barryton",
+      "domains": [
+        {
+          "domain": "forktownshipmi.gov",
+          "org": "Fork Township"
+        }
+      ],
+      "primary": "forktownshipmi.gov"
+    },
+    {
+      "id": "MI-franklin-township-hancock",
+      "name": "Franklin Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Hancock",
+      "domains": [
+        {
+          "domain": "franklintwphcmi.gov",
+          "org": "Franklin Township"
+        }
+      ],
+      "primary": "franklintwphcmi.gov"
+    },
+    {
+      "id": "MI-frenchtown-charter-township-monroe",
+      "name": "Frenchtown Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Monroe",
+      "domains": [
+        {
+          "domain": "frenchtownmi.gov",
+          "org": "Frenchtown Charter Township"
+        }
+      ],
+      "primary": "frenchtownmi.gov"
+    },
+    {
+      "id": "MI-fruitland-township-whitehall",
+      "name": "Fruitland Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Whitehall",
+      "domains": [
+        {
+          "domain": "fruitlandmi.gov",
+          "org": "Fruitland Township"
+        }
+      ],
+      "primary": "fruitlandmi.gov"
+    },
+    {
+      "id": "MI-fruitport-charter-township-fruitport",
+      "name": "Fruitport Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Fruitport",
+      "domains": [
+        {
+          "domain": "fruitporttownship-mi.gov",
+          "org": "Fruitport Charter Township"
+        }
+      ],
+      "primary": "fruitporttownship-mi.gov"
+    },
+    {
+      "id": "MI-gagetown-police-department-gagetown",
+      "name": "Gagetown police department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Gagetown",
+      "domains": [
+        {
+          "domain": "gagetownpdmi.gov",
+          "org": "Gagetown police department"
+        }
+      ],
+      "primary": "gagetownpdmi.gov"
+    },
+    {
+      "id": "MI-ganges-township-fennville",
+      "name": "Ganges Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Fennville",
+      "domains": [
+        {
+          "domain": "gangestownship.gov",
+          "org": "Ganges Township"
+        }
+      ],
+      "primary": "gangestownship.gov"
+    },
+    {
+      "id": "MI-garfield-township-engadine",
+      "name": "Garfield Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Engadine",
+      "domains": [
+        {
+          "domain": "garfieldtwpmcmi.gov",
+          "org": "Garfield Township"
+        }
+      ],
+      "primary": "garfieldtwpmcmi.gov"
+    },
+    {
+      "id": "MI-geneva-township-bangor",
+      "name": "Geneva Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Bangor",
+      "domains": [
+        {
+          "domain": "genevatwpvbcmi.gov",
+          "org": "Geneva Township"
+        }
+      ],
+      "primary": "genevatwpvbcmi.gov"
+    },
+    {
+      "id": "MI-genoa-township-brighton",
+      "name": "Genoa Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Brighton",
+      "domains": [
+        {
+          "domain": "genoami.gov",
+          "org": "Genoa Township"
+        }
+      ],
+      "primary": "genoami.gov"
+    },
+    {
+      "id": "MI-georgetown-charter-township-jenison",
+      "name": "Georgetown Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Jenison",
+      "domains": [
+        {
+          "domain": "georgetown-mi.gov",
+          "org": "Georgetown Charter Township"
+        }
+      ],
+      "primary": "georgetown-mi.gov"
+    },
+    {
+      "id": "MI-germfask-township-germfask",
+      "name": "Germfask Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Germfask",
+      "domains": [
+        {
+          "domain": "germfasktownship.gov",
+          "org": "Germfask Township"
+        }
+      ],
+      "primary": "germfasktownship.gov"
+    },
+    {
+      "id": "MI-gilford-township-fairgrove",
+      "name": "Gilford Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Fairgrove",
+      "domains": [
+        {
+          "domain": "gilfordtownshipmi.gov",
+          "org": "Gilford Township"
+        }
+      ],
+      "primary": "gilfordtownshipmi.gov"
+    },
+    {
+      "id": "MI-golden-township-mears",
+      "name": "Golden Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Mears",
+      "domains": [
+        {
+          "domain": "goldentownshipmi.gov",
+          "org": "Golden Township"
+        }
+      ],
+      "primary": "goldentownshipmi.gov"
+    },
+    {
+      "id": "MI-grand-blanc-township-grand-blanc",
+      "name": "Grand Blanc Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Grand Blanc",
+      "domains": [
+        {
+          "domain": "grandblanctwpmi.gov",
+          "org": "Grand Blanc Township - ISD"
+        }
+      ],
+      "primary": "grandblanctwpmi.gov"
+    },
+    {
+      "id": "MI-grand-haven-charter-township-grand-haven",
+      "name": "Grand Haven Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Grand Haven",
+      "domains": [
+        {
+          "domain": "ghtmi.gov",
+          "org": "Grand Haven Charter Township"
+        }
+      ],
+      "primary": "ghtmi.gov"
+    },
+    {
+      "id": "MI-grant-township-big-rapids",
+      "name": "Grant Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Big Rapids",
+      "domains": [
+        {
+          "domain": "granttwpmecostami.gov",
+          "org": "Grant Township"
+        }
+      ],
+      "primary": "granttwpmecostami.gov"
+    },
+    {
+      "id": "MI-grant-township-grant-township",
+      "name": "Grant Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Grant Township",
+      "domains": [
+        {
+          "domain": "granttwpstclairmi.gov",
+          "org": "Grant Township"
+        }
+      ],
+      "primary": "granttwpstclairmi.gov"
+    },
+    {
+      "id": "MI-grass-lake-charter-township-grass-lake",
+      "name": "GRASS LAKE CHARTER TOWNSHIP",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "GRASS LAKE",
+      "domains": [
+        {
+          "domain": "grasslaketownship.gov",
+          "org": "GRASS LAKE CHARTER TOWNSHIP"
+        }
+      ],
+      "primary": "grasslaketownship.gov"
+    },
+    {
+      "id": "MI-grattan-township-belding",
+      "name": "Grattan Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Belding",
+      "domains": [
+        {
+          "domain": "grattantownshipmi.gov",
+          "org": "Grattan Township"
+        }
+      ],
+      "primary": "grattantownshipmi.gov"
+    },
+    {
+      "id": "MI-green-lake-township-interlochen",
+      "name": "Green Lake Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Interlochen",
+      "domains": [
+        {
+          "domain": "greenlaketwpmi.gov",
+          "org": "Green Lake Township"
+        }
+      ],
+      "primary": "greenlaketwpmi.gov"
+    },
+    {
+      "id": "MI-greenwood-township-hesperia",
+      "name": "Greenwood Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Hesperia",
+      "domains": [
+        {
+          "domain": "greenwoodoceanami.gov",
+          "org": "Greenwood Township"
+        }
+      ],
+      "primary": "greenwoodoceanami.gov"
+    },
+    {
+      "id": "MI-groveland-township-holly",
+      "name": "Groveland Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Holly",
+      "domains": [
+        {
+          "domain": "grovelandmi.gov",
+          "org": "Groveland Township"
+        }
+      ],
+      "primary": "grovelandmi.gov"
+    },
+    {
+      "id": "MI-gustin-township-lincoln",
+      "name": "Gustin Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lincoln",
+      "domains": [
+        {
+          "domain": "gustintwp.gov",
+          "org": "Gustin Township"
+        }
+      ],
+      "primary": "gustintwp.gov"
+    },
+    {
+      "id": "MI-hagar-township-riverside",
+      "name": "HAGAR TOWNSHIP",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "RIVERSIDE",
+      "domains": [
+        {
+          "domain": "hagartownship.gov",
+          "org": "HAGAR TOWNSHIP"
+        }
+      ],
+      "primary": "hagartownship.gov"
+    },
+    {
+      "id": "MI-hamlin-township-eaton-rapids",
+      "name": "Hamlin Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Eaton Rapids",
+      "domains": [
+        {
+          "domain": "hamlineatonmi.gov",
+          "org": "Hamlin Township"
+        }
+      ],
+      "primary": "hamlineatonmi.gov"
+    },
+    {
+      "id": "MI-haring-township-cadillac",
+      "name": "Haring Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Cadillac",
+      "domains": [
+        {
+          "domain": "haringtwpmi.gov",
+          "org": "Haring Township"
+        }
+      ],
+      "primary": "haringtwpmi.gov"
+    },
+    {
+      "id": "MI-harris-township-wilson",
+      "name": "Harris Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Wilson",
+      "domains": [
+        {
+          "domain": "harristownshipmi.gov",
+          "org": "Harris Township"
+        }
+      ],
+      "primary": "harristownshipmi.gov"
+    },
+    {
+      "id": "MI-hayes-township-charlevoix",
+      "name": "Hayes Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Charlevoix",
+      "domains": [
+        {
+          "domain": "hayestownshipmi.gov",
+          "org": "Hayes Township"
+        }
+      ],
+      "primary": "hayestownshipmi.gov"
+    },
+    {
+      "id": "MI-hayes-township-harrison",
+      "name": "Hayes Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Harrison",
+      "domains": [
+        {
+          "domain": "hayestwpclaremi.gov",
+          "org": "Hayes Township"
+        }
+      ],
+      "primary": "hayestwpclaremi.gov"
+    },
+    {
+      "id": "MI-hayes-township-gaylord",
+      "name": "Hayes Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "GAYLORD",
+      "domains": [
+        {
+          "domain": "hayestwpotsegomi.gov",
+          "org": "Hayes Township"
+        }
+      ],
+      "primary": "hayestwpotsegomi.gov"
+    },
+    {
+      "id": "MI-hazelton-township-fire-department-new-lothrop",
+      "name": "Hazelton Township Fire Department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "New Lothrop",
+      "domains": [
+        {
+          "domain": "hazeltonmifire.gov",
+          "org": "Hazelton Township Fire Department"
+        }
+      ],
+      "primary": "hazeltonmifire.gov"
+    },
+    {
+      "id": "MI-helena-township-alden",
+      "name": "Helena Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Alden",
+      "domains": [
+        {
+          "domain": "helenatownshipmichigan.gov",
+          "org": "Helena Township"
+        }
+      ],
+      "primary": "helenatownshipmichigan.gov"
+    },
+    {
+      "id": "MI-henderson-township-cadillac",
+      "name": "Henderson Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "CADILLAC",
+      "domains": [
+        {
+          "domain": "hendersontwpmi.gov",
+          "org": "Henderson Township"
+        }
+      ],
+      "primary": "hendersontwpmi.gov"
+    },
+    {
+      "id": "MI-henrietta-township-pleasant-lake",
+      "name": "Henrietta Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Pleasant Lake",
+      "domains": [
+        {
+          "domain": "henriettatownshipmi.gov",
+          "org": "Henrietta Township"
+        }
+      ],
+      "primary": "henriettatownshipmi.gov"
+    },
+    {
+      "id": "MI-hermansville-housing-commission-hermansville",
+      "name": "Hermansville Housing Commission",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Hermansville",
+      "domains": [
+        {
+          "domain": "hermansvillehousingmi.gov",
+          "org": "Hermansville Housing Commission"
+        }
+      ],
+      "primary": "hermansvillehousingmi.gov"
+    },
+    {
+      "id": "MI-hersey-township-hersey",
+      "name": "Hersey Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Hersey",
+      "domains": [
+        {
+          "domain": "herseytwpmi.gov",
+          "org": "Hersey Township"
+        }
+      ],
+      "primary": "herseytwpmi.gov"
+    },
+    {
+      "id": "MI-hiawatha-township-manistique",
+      "name": "Hiawatha Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Manistique",
+      "domains": [
+        {
+          "domain": "hiawathatownshipmi.gov",
+          "org": "Hiawatha Township"
+        }
+      ],
+      "primary": "hiawathatownshipmi.gov"
+    },
+    {
+      "id": "MI-hillsdale-township-hillsdale",
+      "name": "Hillsdale Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Hillsdale",
+      "domains": [
+        {
+          "domain": "hillsdaletownshipmi.gov",
+          "org": "Hillsdale Township"
+        }
+      ],
+      "primary": "hillsdaletownshipmi.gov"
+    },
+    {
+      "id": "MI-hinton-township-lakeview",
+      "name": "Hinton Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lakeview",
+      "domains": [
+        {
+          "domain": "hintontownship.gov",
+          "org": "Hinton Township"
+        }
+      ],
+      "primary": "hintontownship.gov"
+    },
+    {
+      "id": "MI-holly-township-holly",
+      "name": "Holly Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Holly",
+      "domains": [
+        {
+          "domain": "hollytownship.gov",
+          "org": "Holly Township"
+        }
+      ],
+      "primary": "hollytownship.gov"
+    },
+    {
+      "id": "MI-home-township-edmore",
+      "name": "Home Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Edmore",
+      "domains": [
+        {
+          "domain": "hometownshipmontcalm.gov",
+          "org": "Home Township"
+        }
+      ],
+      "primary": "hometownshipmontcalm.gov"
+    },
+    {
+      "id": "MI-homer-township-homer",
+      "name": "Homer Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Homer",
+      "domains": [
+        {
+          "domain": "homertownshipcalhouncounty.gov",
+          "org": "Homer Township"
+        }
+      ],
+      "primary": "homertownshipcalhouncounty.gov"
+    },
+    {
+      "id": "MI-homestead-township-honor",
+      "name": "Homestead Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Honor",
+      "domains": [
+        {
+          "domain": "homesteadtwpmi.gov",
+          "org": "Homestead Township"
+        }
+      ],
+      "primary": "homesteadtwpmi.gov"
+    },
+    {
+      "id": "MI-hudson-township-lenawee-county-hudson",
+      "name": "Hudson Township, Lenawee County",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Hudson",
+      "domains": [
+        {
+          "domain": "hudsontwplenaweemi.gov",
+          "org": "Hudson Township, Lenawee County"
+        }
+      ],
+      "primary": "hudsontwplenaweemi.gov"
+    },
+    {
+      "id": "MI-huron-township-new-boston",
+      "name": "Huron Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "New Boston",
+      "domains": [
+        {
+          "domain": "hurontownship-mi.gov",
+          "org": "Huron Township"
+        }
+      ],
+      "primary": "hurontownship-mi.gov"
+    },
+    {
+      "id": "MI-ida-township-ida",
+      "name": "Ida Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ida",
+      "domains": [
+        {
+          "domain": "idatownshipmi.gov",
+          "org": "Ida Township"
+        }
+      ],
+      "primary": "idatownshipmi.gov"
+    },
+    {
+      "id": "MI-ingallston-township-wallace",
+      "name": "Ingallston Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Wallace",
+      "domains": [
+        {
+          "domain": "ingallstonmi.gov",
+          "org": "Ingallston Township"
+        }
+      ],
+      "primary": "ingallstonmi.gov"
+    },
+    {
+      "id": "MI-ingersoll-township-midand",
+      "name": "Ingersoll Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Midand",
+      "domains": [
+        {
+          "domain": "ingersolltwpmi.gov",
+          "org": "Ingersoll Township"
+        }
+      ],
+      "primary": "ingersolltwpmi.gov"
+    },
+    {
+      "id": "MI-inland-township-interlochen",
+      "name": "Inland Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Interlochen",
+      "domains": [
+        {
+          "domain": "inlandtownshipmi.gov",
+          "org": "Inland Township"
+        }
+      ],
+      "primary": "inlandtownshipmi.gov"
+    },
+    {
+      "id": "MI-ionia-township-ionia",
+      "name": "Ionia Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ionia",
+      "domains": [
+        {
+          "domain": "ioniatownshipmi.gov",
+          "org": "Ionia Township"
+        }
+      ],
+      "primary": "ioniatownshipmi.gov"
+    },
+    {
+      "id": "MI-james-township",
+      "name": "James Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "",
+      "domains": [
+        {
+          "domain": "jamestwpmi.gov",
+          "org": "James Township"
+        }
+      ],
+      "primary": "jamestwpmi.gov"
+    },
+    {
+      "id": "MI-jefferson-township-hillsdale-county-mi-osseo",
+      "name": "Jefferson Township Hillsdale County MI",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Osseo",
+      "domains": [
+        {
+          "domain": "jeffersontwphcmi.gov",
+          "org": "Jefferson Township Hillsdale County MI"
+        }
+      ],
+      "primary": "jeffersontwphcmi.gov"
+    },
+    {
+      "id": "MI-johnstown-township-battle-creek",
+      "name": "Johnstown Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Battle Creek",
+      "domains": [
+        {
+          "domain": "johnstowntwpmi.gov",
+          "org": "Johnstown Township"
+        }
+      ],
+      "primary": "johnstowntwpmi.gov"
+    },
+    {
+      "id": "MI-jonesville-city-jonesville",
+      "name": "Jonesville City",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Jonesville",
+      "domains": [
+        {
+          "domain": "jonesvillemi.gov",
+          "org": "Jonesville City"
+        }
+      ],
+      "primary": "jonesvillemi.gov"
+    },
+    {
+      "id": "MI-joyfield-township-benzonia",
+      "name": "Joyfield Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Benzonia",
+      "domains": [
+        {
+          "domain": "joyfieldtownshipmi.gov",
+          "org": "Joyfield Township"
+        }
+      ],
+      "primary": "joyfieldtownshipmi.gov"
+    },
+    {
+      "id": "MI-kalamazoo-public-library-kalamazoo",
+      "name": "Kalamazoo Public Library",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Kalamazoo",
+      "domains": [
+        {
+          "domain": "kpl.gov",
+          "org": "Kalamazoo Public Library"
+        }
+      ],
+      "primary": "kpl.gov"
+    },
+    {
+      "id": "MI-kalamo-township-vermontville",
+      "name": "Kalamo Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Vermontville",
+      "domains": [
+        {
+          "domain": "kalamotownship-mi.gov",
+          "org": "Kalamo Township"
+        }
+      ],
+      "primary": "kalamotownship-mi.gov"
+    },
+    {
+      "id": "MI-kearney-township-bellaire",
+      "name": "Kearney Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Bellaire",
+      "domains": [
+        {
+          "domain": "kearneytownshipmi.gov",
+          "org": "Kearney Township"
+        }
+      ],
+      "primary": "kearneytownshipmi.gov"
+    },
+    {
+      "id": "MI-keeler-township-hartford",
+      "name": "Keeler Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Hartford",
+      "domains": [
+        {
+          "domain": "keelertownshipmi.gov",
+          "org": "Keeler Township"
+        }
+      ],
+      "primary": "keelertownshipmi.gov"
+    },
+    {
+      "id": "MI-keene-township-saranac",
+      "name": "Keene Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Saranac",
+      "domains": [
+        {
+          "domain": "keenetownshipmi.gov",
+          "org": "Keene Township"
+        }
+      ],
+      "primary": "keenetownshipmi.gov"
+    },
+    {
+      "id": "MI-kenockee-township-avoca",
+      "name": "Kenockee Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Avoca",
+      "domains": [
+        {
+          "domain": "kenockeetownshipmi.gov",
+          "org": "Kenockee Township"
+        }
+      ],
+      "primary": "kenockeetownshipmi.gov"
+    },
+    {
+      "id": "MI-kinross-charter-township-kincheloe",
+      "name": "Kinross Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Kincheloe",
+      "domains": [
+        {
+          "domain": "kinrosstownship-mi.gov",
+          "org": "Kinross Charter Township"
+        }
+      ],
+      "primary": "kinrosstownship-mi.gov"
+    },
+    {
+      "id": "MI-klacking-township-rose-city",
+      "name": "Klacking Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Rose City",
+      "domains": [
+        {
+          "domain": "klackingtownshipmi.gov",
+          "org": "Klacking Township"
+        }
+      ],
+      "primary": "klackingtownshipmi.gov"
+    },
+    {
+      "id": "MI-kochville-township-saginaw",
+      "name": "Kochville Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Saginaw",
+      "domains": [
+        {
+          "domain": "kochville.gov",
+          "org": "Kochville Township"
+        }
+      ],
+      "primary": "kochville.gov"
+    },
+    {
+      "id": "MI-lake-township-baldwin",
+      "name": "Lake Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Baldwin",
+      "domains": [
+        {
+          "domain": "laketownshiplcmi.gov",
+          "org": "Lake Township"
+        }
+      ],
+      "primary": "laketownshiplcmi.gov"
+    },
+    {
+      "id": "MI-laketon-township-muskegon",
+      "name": "LAKETON TOWNSHIP",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Muskegon",
+      "domains": [
+        {
+          "domain": "laketontwpmi.gov",
+          "org": "LAKETON TOWNSHIP"
+        }
+      ],
+      "primary": "laketontwpmi.gov"
+    },
+    {
+      "id": "MI-lansing-charter-township-lansing",
+      "name": "Lansing Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lansing",
+      "domains": [
+        {
+          "domain": "lansingtwpmi.gov",
+          "org": "Lansing Charter Township"
+        }
+      ],
+      "primary": "lansingtwpmi.gov"
+    },
+    {
+      "id": "MI-lee-township-midland",
+      "name": "Lee Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Midland",
+      "domains": [
+        {
+          "domain": "leetownshipmidlandmi.gov",
+          "org": "Lee Township"
+        }
+      ],
+      "primary": "leetownshipmidlandmi.gov"
+    },
+    {
+      "id": "MI-leelanau-township-northport",
+      "name": "Leelanau Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Northport",
+      "domains": [
+        {
+          "domain": "leelanautownshipmi.gov",
+          "org": "Leelanau Township"
+        }
+      ],
+      "primary": "leelanautownshipmi.gov"
+    },
+    {
+      "id": "MI-leelanau-township-fire-department-northport",
+      "name": "Leelanau Township Fire Department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Northport",
+      "domains": [
+        {
+          "domain": "leelanautwpfire.gov",
+          "org": "Leelanau Township Fire Department"
+        }
+      ],
+      "primary": "leelanautwpfire.gov"
+    },
+    {
+      "id": "MI-lenox-township-lenox",
+      "name": "Lenox Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lenox",
+      "domains": [
+        {
+          "domain": "lenox-mi.gov",
+          "org": "Lenox Township"
+        }
+      ],
+      "primary": "lenox-mi.gov"
+    },
+    {
+      "id": "MI-leonidas-township-leonidas",
+      "name": "Leonidas Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Leonidas",
+      "domains": [
+        {
+          "domain": "leonidastwp.gov",
+          "org": "Leonidas Township"
+        }
+      ],
+      "primary": "leonidastwp.gov"
+    },
+    {
+      "id": "MI-leroy-township-webberville",
+      "name": "Leroy Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Webberville",
+      "domains": [
+        {
+          "domain": "leroytownship-mi.gov",
+          "org": "Leroy Township"
+        }
+      ],
+      "primary": "leroytownship-mi.gov"
+    },
+    {
+      "id": "MI-leroy-township-east-leroy",
+      "name": "Leroy Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "East Leroy",
+      "domains": [
+        {
+          "domain": "leroytwp-calhounmi.gov",
+          "org": "Leroy Township"
+        }
+      ],
+      "primary": "leroytwp-calhounmi.gov"
+    },
+    {
+      "id": "MI-liberty-township-manton",
+      "name": "Liberty Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Manton",
+      "domains": [
+        {
+          "domain": "libertytownshipwexfordmi.gov",
+          "org": "Liberty Township"
+        }
+      ],
+      "primary": "libertytownshipwexfordmi.gov"
+    },
+    {
+      "id": "MI-lima-township-chelsea",
+      "name": "Lima Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Chelsea",
+      "domains": [
+        {
+          "domain": "limatownshipmi.gov",
+          "org": "Lima Township"
+        }
+      ],
+      "primary": "limatownshipmi.gov"
+    },
+    {
+      "id": "MI-lincoln-township-midland",
+      "name": "Lincoln Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Midland",
+      "domains": [
+        {
+          "domain": "lincolntwp-midland.gov",
+          "org": "Lincoln Township"
+        }
+      ],
+      "primary": "lincolntwp-midland.gov"
+    },
+    {
+      "id": "MI-little-traverse-township-harbor-springs",
+      "name": "Little Traverse Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Harbor Springs",
+      "domains": [
+        {
+          "domain": "littletraversetwpmi.gov",
+          "org": "Little Traverse Township"
+        }
+      ],
+      "primary": "littletraversetwpmi.gov"
+    },
+    {
+      "id": "MI-livingston-township-gaylord",
+      "name": "Livingston Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Gaylord",
+      "domains": [
+        {
+          "domain": "livingstontownshipmi.gov",
+          "org": "Livingston Township"
+        }
+      ],
+      "primary": "livingstontownshipmi.gov"
+    },
+    {
+      "id": "MI-locke-township-williamston",
+      "name": "Locke Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Williamston",
+      "domains": [
+        {
+          "domain": "locketwpmi.gov",
+          "org": "Locke Township"
+        }
+      ],
+      "primary": "locketwpmi.gov"
+    },
+    {
+      "id": "MI-lockport-township-threr-rivers",
+      "name": "Lockport Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Threr Rivers",
+      "domains": [
+        {
+          "domain": "lockportmi.gov",
+          "org": "Lockport Township"
+        }
+      ],
+      "primary": "lockportmi.gov"
+    },
+    {
+      "id": "MI-london-township-milan",
+      "name": "London Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Milan",
+      "domains": [
+        {
+          "domain": "londontwpmi.gov",
+          "org": "London Township"
+        }
+      ],
+      "primary": "londontwpmi.gov"
+    },
+    {
+      "id": "MI-lyndon-township-chelsea",
+      "name": "Lyndon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Chelsea",
+      "domains": [
+        {
+          "domain": "lyndontownshipmi.gov",
+          "org": "Lyndon Township"
+        }
+      ],
+      "primary": "lyndontownshipmi.gov"
+    },
+    {
+      "id": "MI-lynn-township-yale",
+      "name": "Lynn Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Yale",
+      "domains": [
+        {
+          "domain": "lynntownshipmi.gov",
+          "org": "Lynn Township"
+        }
+      ],
+      "primary": "lynntownshipmi.gov"
+    },
+    {
+      "id": "MI-lyon-township-roscommon",
+      "name": "Lyon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Roscommon",
+      "domains": [
+        {
+          "domain": "lyontwp-higginsmi.gov",
+          "org": "Lyon Township"
+        }
+      ],
+      "primary": "lyontwp-higginsmi.gov"
+    },
+    {
+      "id": "MI-lyons-township-lyons",
+      "name": "Lyons Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lyons",
+      "domains": [
+        {
+          "domain": "lyonstownshipmi.gov",
+          "org": "Lyons Township"
+        }
+      ],
+      "primary": "lyonstownshipmi.gov"
+    },
+    {
+      "id": "MI-macomb-township-macomb",
+      "name": "Macomb Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Macomb",
+      "domains": [
+        {
+          "domain": "macomb-mi.gov",
+          "org": "Macomb Township"
+        }
+      ],
+      "primary": "macomb-mi.gov"
+    },
+    {
+      "id": "MI-macon-township-clinton",
+      "name": "Macon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Clinton",
+      "domains": [
+        {
+          "domain": "macontwpmi.gov",
+          "org": "Macon Township"
+        }
+      ],
+      "primary": "macontwpmi.gov"
+    },
+    {
+      "id": "MI-manchester-township-manchester",
+      "name": "Manchester Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Manchester",
+      "domains": [
+        {
+          "domain": "manchestertownshipmi.gov",
+          "org": "Manchester Township"
+        }
+      ],
+      "primary": "manchestertownshipmi.gov"
+    },
+    {
+      "id": "MI-maple-grove-township-new-lothrop",
+      "name": "Maple Grove Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "New Lothrop",
+      "domains": [
+        {
+          "domain": "maplegrovetownshipmi.gov",
+          "org": "Maple Grove Township"
+        }
+      ],
+      "primary": "maplegrovetownshipmi.gov"
+    },
+    {
+      "id": "MI-maple-grove-twp-kaleva",
+      "name": "Maple Grove Twp.",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Kaleva",
+      "domains": [
+        {
+          "domain": "maplegrovetwpmanistee.gov",
+          "org": "Maple Grove Twp."
+        }
+      ],
+      "primary": "maplegrovetwpmanistee.gov"
+    },
+    {
+      "id": "MI-maple-ridge-township-alpena",
+      "name": "Maple Ridge Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Alpena",
+      "domains": [
+        {
+          "domain": "mapleridge-alpenami.gov",
+          "org": "Maple Ridge Township"
+        }
+      ],
+      "primary": "mapleridge-alpenami.gov"
+    },
+    {
+      "id": "MI-maple-valley-township-coral",
+      "name": "Maple Valley Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Coral",
+      "domains": [
+        {
+          "domain": "maplevalleytwpmi.gov",
+          "org": "Maple Valley Township"
+        }
+      ],
+      "primary": "maplevalleytwpmi.gov"
+    },
+    {
+      "id": "MI-marengo-township-albion",
+      "name": "Marengo Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Albion",
+      "domains": [
+        {
+          "domain": "marengomi.gov",
+          "org": "Marengo Township"
+        }
+      ],
+      "primary": "marengomi.gov"
+    },
+    {
+      "id": "MI-marilla-township-copemish",
+      "name": "Marilla Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Copemish",
+      "domains": [
+        {
+          "domain": "marillatownshipmi.gov",
+          "org": "Marilla Township"
+        }
+      ],
+      "primary": "marillatownshipmi.gov"
+    },
+    {
+      "id": "MI-marion-township-charlevoix-county-michigan-charlevoix",
+      "name": "Marion Township, Charlevoix County, Michigan",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Charlevoix",
+      "domains": [
+        {
+          "domain": "mariontwpcvxmi.gov",
+          "org": "Marion Township, Charlevoix County, Michigan"
+        }
+      ],
+      "primary": "mariontwpcvxmi.gov"
+    },
+    {
+      "id": "MI-martiny-township-rodney",
+      "name": "Martiny Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Rodney",
+      "domains": [
+        {
+          "domain": "martinytownshipmi.gov",
+          "org": "Martiny Township"
+        }
+      ],
+      "primary": "martinytownshipmi.gov"
+    },
+    {
+      "id": "MI-mason-township-twining",
+      "name": "Mason Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Twining",
+      "domains": [
+        {
+          "domain": "masontwparenacco.gov",
+          "org": "Mason Township"
+        }
+      ],
+      "primary": "masontwparenacco.gov"
+    },
+    {
+      "id": "MI-medina-township-morenci",
+      "name": "Medina Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Morenci",
+      "domains": [
+        {
+          "domain": "medinatownshipmi.gov",
+          "org": "Medina Township"
+        }
+      ],
+      "primary": "medinatownshipmi.gov"
+    },
+    {
+      "id": "MI-meyer-township-hermansville",
+      "name": "Meyer Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Hermansville",
+      "domains": [
+        {
+          "domain": "meyertwpmi.gov",
+          "org": "Meyer Township"
+        }
+      ],
+      "primary": "meyertwpmi.gov"
+    },
+    {
+      "id": "MI-michigamme-township-michigamme",
+      "name": "Michigamme Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "MICHIGAMME",
+      "domains": [
+        {
+          "domain": "michigammetownship.gov",
+          "org": "Michigamme Township"
+        }
+      ],
+      "primary": "michigammetownship.gov"
+    },
+    {
+      "id": "MI-mills-township-prescott",
+      "name": "Mills Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Prescott",
+      "domains": [
+        {
+          "domain": "millstwpogemawmi.gov",
+          "org": "Mills Township"
+        }
+      ],
+      "primary": "millstwpogemawmi.gov"
+    },
+    {
+      "id": "MI-milton-township-kewadin",
+      "name": "Milton Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Kewadin",
+      "domains": [
+        {
+          "domain": "miltontownshipmi.gov",
+          "org": "Milton Township"
+        }
+      ],
+      "primary": "miltontownshipmi.gov"
+    },
+    {
+      "id": "MI-milton-township-niles",
+      "name": "Milton Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Niles",
+      "domains": [
+        {
+          "domain": "miltontwpmi.gov",
+          "org": "Milton Township"
+        }
+      ],
+      "primary": "miltontwpmi.gov"
+    },
+    {
+      "id": "MI-moffatt-township-alger",
+      "name": "Moffatt Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Alger",
+      "domains": [
+        {
+          "domain": "moffatttownship.gov",
+          "org": "Moffatt Township"
+        }
+      ],
+      "primary": "moffatttownship.gov"
+    },
+    {
+      "id": "MI-monroe-charter-township-monroe",
+      "name": "Monroe Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Monroe",
+      "domains": [
+        {
+          "domain": "monroechartertwpmi.gov",
+          "org": "Monroe Charter Township"
+        }
+      ],
+      "primary": "monroechartertwpmi.gov"
+    },
+    {
+      "id": "MI-montcalm-township-greenville",
+      "name": "Montcalm Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Greenville",
+      "domains": [
+        {
+          "domain": "montcalmtownship.gov",
+          "org": "Montcalm Township"
+        }
+      ],
+      "primary": "montcalmtownship.gov"
+    },
+    {
+      "id": "MI-moore-township-snover",
+      "name": "Moore Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Snover",
+      "domains": [
+        {
+          "domain": "mooremi.gov",
+          "org": "Moore Township"
+        }
+      ],
+      "primary": "mooremi.gov"
+    },
+    {
+      "id": "MI-mueller-township-gulliver",
+      "name": "Mueller Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Gulliver",
+      "domains": [
+        {
+          "domain": "muellertownshipmi.gov",
+          "org": "Mueller Township"
+        }
+      ],
+      "primary": "muellertownshipmi.gov"
+    },
+    {
+      "id": "MI-mullett-township-topinabee",
+      "name": "Mullett Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Topinabee",
+      "domains": [
+        {
+          "domain": "mullett-townshipmi.gov",
+          "org": "Mullett Township"
+        }
+      ],
+      "primary": "mullett-townshipmi.gov"
+    },
+    {
+      "id": "MI-munising-township-wetmore",
+      "name": "Munising Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Wetmore",
+      "domains": [
+        {
+          "domain": "munisingtownship.gov",
+          "org": "Munising Township"
+        }
+      ],
+      "primary": "munisingtownship.gov"
+    },
+    {
+      "id": "MI-muskegon-township-muskegon",
+      "name": "Muskegon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Muskegon",
+      "domains": [
+        {
+          "domain": "muskegontwpmi.gov",
+          "org": "Muskegon Township"
+        }
+      ],
+      "primary": "muskegontwpmi.gov"
+    },
+    {
+      "id": "MI-napoleon-township-police-department-napoleon",
+      "name": "Napoleon Township Police Department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Napoleon",
+      "domains": [
+        {
+          "domain": "napoleonpolicemi.gov",
+          "org": "Napoleon Township Police Department"
+        }
+      ],
+      "primary": "napoleonpolicemi.gov"
+    },
+    {
+      "id": "MI-new-haven-township-owosso",
+      "name": "New Haven Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Owosso",
+      "domains": [
+        {
+          "domain": "newhavenshiami.gov",
+          "org": "New Haven Township"
+        }
+      ],
+      "primary": "newhavenshiami.gov"
+    },
+    {
+      "id": "MI-niles-charter-township-niles",
+      "name": "Niles Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Niles",
+      "domains": [
+        {
+          "domain": "nilestwpmi.gov",
+          "org": "Niles Charter Township"
+        }
+      ],
+      "primary": "nilestwpmi.gov"
+    },
+    {
+      "id": "MI-northfield-township-whitmore-lake",
+      "name": "Northfield Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Whitmore Lake",
+      "domains": [
+        {
+          "domain": "northfieldmi.gov",
+          "org": "Northfield Township"
+        }
+      ],
+      "primary": "northfieldmi.gov"
+    },
+    {
+      "id": "MI-norvell-township-norvell",
+      "name": "Norvell Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Norvell",
+      "domains": [
+        {
+          "domain": "norvelltwp-mi.gov",
+          "org": "Norvell Township"
+        }
+      ],
+      "primary": "norvelltwp-mi.gov"
+    },
+    {
+      "id": "MI-nottawa-township-weidman",
+      "name": "Nottawa Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Weidman",
+      "domains": [
+        {
+          "domain": "nottawatwpisabellami.gov",
+          "org": "Nottawa Township"
+        }
+      ],
+      "primary": "nottawatwpisabellami.gov"
+    },
+    {
+      "id": "MI-ocqueoc-township-ocqueoc",
+      "name": "Ocqueoc Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ocqueoc",
+      "domains": [
+        {
+          "domain": "ocqueoctwpmi.gov",
+          "org": "Ocqueoc Township"
+        }
+      ],
+      "primary": "ocqueoctwpmi.gov"
+    },
+    {
+      "id": "MI-olive-township-dewitt",
+      "name": "Olive Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Dewitt",
+      "domains": [
+        {
+          "domain": "olivetownshipccmi.gov",
+          "org": "Olive Township"
+        }
+      ],
+      "primary": "olivetownshipccmi.gov"
+    },
+    {
+      "id": "MI-olive-township-holland",
+      "name": "Olive Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Holland",
+      "domains": [
+        {
+          "domain": "olivetownship-mi.gov",
+          "org": "Olive Township"
+        }
+      ],
+      "primary": "olivetownship-mi.gov"
+    },
+    {
+      "id": "MI-orange-township-portland",
+      "name": "Orange Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Portland",
+      "domains": [
+        {
+          "domain": "orangetownshipioniami.gov",
+          "org": "Orange Township"
+        }
+      ],
+      "primary": "orangetownshipioniami.gov"
+    },
+    {
+      "id": "MI-oregon-township-lapeer",
+      "name": "Oregon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lapeer",
+      "domains": [
+        {
+          "domain": "oregontwpmi.gov",
+          "org": "Oregon Township"
+        }
+      ],
+      "primary": "oregontwpmi.gov"
+    },
+    {
+      "id": "MI-oshtemo-charter-township-kalamazoo",
+      "name": "Oshtemo Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Kalamazoo",
+      "domains": [
+        {
+          "domain": "oshtemo.gov",
+          "org": "Oshtemo Charter Township"
+        }
+      ],
+      "primary": "oshtemo.gov"
+    },
+    {
+      "id": "MI-ossineke-township-hubbard-lake",
+      "name": "Ossineke Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Hubbard Lake",
+      "domains": [
+        {
+          "domain": "ossineketwpmi.gov",
+          "org": "Ossineke Township"
+        }
+      ],
+      "primary": "ossineketwpmi.gov"
+    },
+    {
+      "id": "MI-ovid-township-ovid",
+      "name": "Ovid Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "OVID",
+      "domains": [
+        {
+          "domain": "ovidtownshipccmi.gov",
+          "org": "Ovid Township"
+        }
+      ],
+      "primary": "ovidtownshipccmi.gov"
+    },
+    {
+      "id": "MI-oxford-police-oxford",
+      "name": "Oxford Police",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Oxford",
+      "domains": [
+        {
+          "domain": "oxfordpdmi.gov",
+          "org": "Oxford Police"
+        }
+      ],
+      "primary": "oxfordpdmi.gov"
+    },
+    {
+      "id": "MI-paradise-township-kingsley",
+      "name": "Paradise Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "kingsley",
+      "domains": [
+        {
+          "domain": "paradisetownshipmi.gov",
+          "org": "Paradise Township"
+        }
+      ],
+      "primary": "paradisetownshipmi.gov"
+    },
+    {
+      "id": "MI-paris-township-ruth",
+      "name": "Paris Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ruth",
+      "domains": [
+        {
+          "domain": "paristwpmi.gov",
+          "org": "Paris Township"
+        }
+      ],
+      "primary": "paristwpmi.gov"
+    },
+    {
+      "id": "MI-parma-township-albion",
+      "name": "Parma Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Albion",
+      "domains": [
+        {
+          "domain": "parmatwp.gov",
+          "org": "Parma Township"
+        }
+      ],
+      "primary": "parmatwp.gov"
+    },
+    {
+      "id": "MI-pavilion-township-scotts",
+      "name": "Pavilion Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Scotts",
+      "domains": [
+        {
+          "domain": "paviliontwpmi.gov",
+          "org": "Pavilion Township"
+        }
+      ],
+      "primary": "paviliontwpmi.gov"
+    },
+    {
+      "id": "MI-paw-paw-township-paw-paw",
+      "name": "Paw Paw Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Paw Paw",
+      "domains": [
+        {
+          "domain": "pawpawtownshipmi.gov",
+          "org": "Paw Paw Township"
+        }
+      ],
+      "primary": "pawpawtownshipmi.gov"
+    },
+    {
+      "id": "MI-peaine-township-beaver-island",
+      "name": "Peaine Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Beaver island",
+      "domains": [
+        {
+          "domain": "peainetownship.gov",
+          "org": "Peaine Township"
+        }
+      ],
+      "primary": "peainetownship.gov"
+    },
+    {
+      "id": "MI-pennfield-charter-township-battle-creek",
+      "name": "Pennfield Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Battle Creek",
+      "domains": [
+        {
+          "domain": "pennfieldmi.gov",
+          "org": "Pennfield Charter Township"
+        }
+      ],
+      "primary": "pennfieldmi.gov"
+    },
+    {
+      "id": "MI-pentland-township-newberry",
+      "name": "Pentland Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Newberry",
+      "domains": [
+        {
+          "domain": "pentlandtownshipmi.gov",
+          "org": "Pentland Township"
+        }
+      ],
+      "primary": "pentlandtownshipmi.gov"
+    },
+    {
+      "id": "MI-pentwater-township-pentwatet",
+      "name": "Pentwater Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Pentwatet",
+      "domains": [
+        {
+          "domain": "pentwatertownshipmi.gov",
+          "org": "Pentwater Township"
+        }
+      ],
+      "primary": "pentwatertownshipmi.gov"
+    },
+    {
+      "id": "MI-pinconning-township-pinconning",
+      "name": "Pinconning Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Pinconning",
+      "domains": [
+        {
+          "domain": "pinconningtownship.gov",
+          "org": "Pinconning Township"
+        }
+      ],
+      "primary": "pinconningtownship.gov"
+    },
+    {
+      "id": "MI-pine-grove-township-gobles",
+      "name": "Pine Grove Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Gobles",
+      "domains": [
+        {
+          "domain": "pinegrovetownshipmi.gov",
+          "org": "Pine Grove Township"
+        }
+      ],
+      "primary": "pinegrovetownshipmi.gov"
+    },
+    {
+      "id": "MI-pine-river-township-st-louis",
+      "name": "Pine River Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "St Louis",
+      "domains": [
+        {
+          "domain": "pinerivermi.gov",
+          "org": "Pine River Township"
+        }
+      ],
+      "primary": "pinerivermi.gov"
+    },
+    {
+      "id": "MI-pittsfield-charter-township-ann-arbor",
+      "name": "Pittsfield Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ann Arbor",
+      "domains": [
+        {
+          "domain": "pittsfield-mi.gov",
+          "org": "Pittsfield Charter Township"
+        }
+      ],
+      "primary": "pittsfield-mi.gov"
+    },
+    {
+      "id": "MI-platte-township-honor",
+      "name": "Platte Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Honor",
+      "domains": [
+        {
+          "domain": "plattetownshipmi.gov",
+          "org": "Platte Township"
+        }
+      ],
+      "primary": "plattetownshipmi.gov"
+    },
+    {
+      "id": "MI-pleasantview-township-harbor-springs",
+      "name": "Pleasantview Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Harbor Springs",
+      "domains": [
+        {
+          "domain": "pleasantviewmi.gov",
+          "org": "Pleasantview Township"
+        }
+      ],
+      "primary": "pleasantviewmi.gov"
+    },
+    {
+      "id": "MI-plymouth-charter-township-plymouth",
+      "name": "Plymouth Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Plymouth",
+      "domains": [
+        {
+          "domain": "plymouthtownshipmi.gov",
+          "org": "Plymouth Charter Township"
+        }
+      ],
+      "primary": "plymouthtownshipmi.gov"
+    },
+    {
+      "id": "MI-pokagon-township-dowagiac",
+      "name": "Pokagon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Dowagiac",
+      "domains": [
+        {
+          "domain": "pokagontownshipmi.gov",
+          "org": "Pokagon Township"
+        }
+      ],
+      "primary": "pokagontownshipmi.gov"
+    },
+    {
+      "id": "MI-port-huron-charter-township-port-huron",
+      "name": "Port Huron Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Port Huron",
+      "domains": [
+        {
+          "domain": "phtwpmi.gov",
+          "org": "Port Huron Charter Township"
+        }
+      ],
+      "primary": "phtwpmi.gov"
+    },
+    {
+      "id": "MI-port-sheldon-township-west-olive",
+      "name": "Port Sheldon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "West Olive",
+      "domains": [
+        {
+          "domain": "portsheldonmi.gov",
+          "org": "Port Sheldon Township"
+        }
+      ],
+      "primary": "portsheldonmi.gov"
+    },
+    {
+      "id": "MI-porter-township-lawton",
+      "name": "Porter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lawton",
+      "domains": [
+        {
+          "domain": "portertwpvbco.gov",
+          "org": "Porter Township"
+        }
+      ],
+      "primary": "portertwpvbco.gov"
+    },
+    {
+      "id": "MI-portland-township-portland",
+      "name": "Portland Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Portland",
+      "domains": [
+        {
+          "domain": "portlandtownshipmi.gov",
+          "org": "Portland Township"
+        }
+      ],
+      "primary": "portlandtownshipmi.gov"
+    },
+    {
+      "id": "MI-portsmouth-township-bay-city",
+      "name": "Portsmouth Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Bay City",
+      "domains": [
+        {
+          "domain": "portsmouthtownshipmi.gov",
+          "org": "Portsmouth Township"
+        }
+      ],
+      "primary": "portsmouthtownshipmi.gov"
+    },
+    {
+      "id": "MI-prairieville-township-delton",
+      "name": "Prairieville Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Delton",
+      "domains": [
+        {
+          "domain": "prairievilletwp-mi.gov",
+          "org": "Prairieville Township"
+        }
+      ],
+      "primary": "prairievilletwp-mi.gov"
+    },
+    {
+      "id": "MI-rapid-river-township-kalkaska",
+      "name": "Rapid River Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Kalkaska",
+      "domains": [
+        {
+          "domain": "rapidrivertownshipmi.gov",
+          "org": "Rapid River Township"
+        }
+      ],
+      "primary": "rapidrivertownshipmi.gov"
+    },
+    {
+      "id": "MI-ray-township-ray",
+      "name": "Ray Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ray",
+      "domains": [
+        {
+          "domain": "raytwpmi.gov",
+          "org": "Ray Township"
+        }
+      ],
+      "primary": "raytwpmi.gov"
+    },
+    {
+      "id": "MI-redding-township-harrison",
+      "name": "REDDING TOWNSHIP",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "HARRISON",
+      "domains": [
+        {
+          "domain": "reddingtwpmi.gov",
+          "org": "REDDING TOWNSHIP"
+        }
+      ],
+      "primary": "reddingtwpmi.gov"
+    },
+    {
+      "id": "MI-redford-township-fire-department-redford",
+      "name": "Redford Township Fire Department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Redford",
+      "domains": [
+        {
+          "domain": "redfordfd.gov",
+          "org": "Redford Township Fire Department"
+        }
+      ],
+      "primary": "redfordfd.gov"
+    },
+    {
+      "id": "MI-redford-township-police-department-redford",
+      "name": "Redford Township Police Department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Redford",
+      "domains": [
+        {
+          "domain": "redfordpd.gov",
+          "org": "Redford Township Police Department"
+        }
+      ],
+      "primary": "redfordpd.gov"
+    },
+    {
+      "id": "MI-reed-city-reed-city",
+      "name": "Reed City",
+      "kind": "City",
+      "state": "MI",
+      "mailingCity": "Reed City",
+      "domains": [
+        {
+          "domain": "reedcity.gov",
+          "org": "Reed City"
+        }
+      ],
+      "primary": "reedcity.gov"
+    },
+    {
+      "id": "MI-resort-township-petoskey",
+      "name": "Resort Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Petoskey",
+      "domains": [
+        {
+          "domain": "resorttownship.gov",
+          "org": "Resort Township"
+        }
+      ],
+      "primary": "resorttownship.gov"
+    },
+    {
+      "id": "MI-richland-township-prescott-mi",
+      "name": "Richland Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Prescott, MI",
+      "domains": [
+        {
+          "domain": "richlandtownshipogemawmi.gov",
+          "org": "Richland Township"
+        }
+      ],
+      "primary": "richlandtownshipogemawmi.gov"
+    },
+    {
+      "id": "MI-riga-township-riga",
+      "name": "Riga Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Riga",
+      "domains": [
+        {
+          "domain": "rigatownshipmi.gov",
+          "org": "Riga Township"
+        }
+      ],
+      "primary": "rigatownshipmi.gov"
+    },
+    {
+      "id": "MI-riley-township-dewitt",
+      "name": "Riley Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Dewitt",
+      "domains": [
+        {
+          "domain": "rileytwpmi.gov",
+          "org": "Riley Township"
+        }
+      ],
+      "primary": "rileytwpmi.gov"
+    },
+    {
+      "id": "MI-robinson-township-grand-haven",
+      "name": "Robinson Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Grand Haven",
+      "domains": [
+        {
+          "domain": "robinsontwpmi.gov",
+          "org": "Robinson Township"
+        }
+      ],
+      "primary": "robinsontwpmi.gov"
+    },
+    {
+      "id": "MI-robinson-township-fire-department-grand-haven",
+      "name": "Robinson Township Fire Department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Grand Haven",
+      "domains": [
+        {
+          "domain": "robinsonfiremi.gov",
+          "org": "Robinson Township Fire Department"
+        }
+      ],
+      "primary": "robinsonfiremi.gov"
+    },
+    {
+      "id": "MI-rock-river-township-chatham",
+      "name": "Rock River Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Chatham",
+      "domains": [
+        {
+          "domain": "rockrivertownship.gov",
+          "org": "Rock River Township"
+        }
+      ],
+      "primary": "rockrivertownship.gov"
+    },
+    {
+      "id": "MI-rollin-township-manitou-beach",
+      "name": "Rollin Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Manitou Beach",
+      "domains": [
+        {
+          "domain": "rollintownship.gov",
+          "org": "Rollin Township"
+        }
+      ],
+      "primary": "rollintownship.gov"
+    },
+    {
+      "id": "MI-roscommon-township-houghton-lake",
+      "name": "Roscommon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Houghton Lake",
+      "domains": [
+        {
+          "domain": "roscommontownshipmi.gov",
+          "org": "Roscommon Township"
+        }
+      ],
+      "primary": "roscommontownshipmi.gov"
+    },
+    {
+      "id": "MI-rose-township-holly",
+      "name": "Rose Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Holly",
+      "domains": [
+        {
+          "domain": "rosetwpoaklandmi.gov",
+          "org": "Rose Township"
+        }
+      ],
+      "primary": "rosetwpoaklandmi.gov"
+    },
+    {
+      "id": "MI-ross-township-richland",
+      "name": "Ross Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Richland",
+      "domains": [
+        {
+          "domain": "rosstownshipmi.gov",
+          "org": "Ross Township"
+        }
+      ],
+      "primary": "rosstownshipmi.gov"
+    },
+    {
+      "id": "MI-ross-township-police-department-richland",
+      "name": "Ross Township Police Department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Richland",
+      "domains": [
+        {
+          "domain": "rosspolicemi.gov",
+          "org": "Ross Township Police Department"
+        }
+      ],
+      "primary": "rosspolicemi.gov"
+    },
+    {
+      "id": "MI-salem-township-in-allegan-county-burnips",
+      "name": "Salem Township in Allegan County",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Burnips",
+      "domains": [
+        {
+          "domain": "salemtownshipacmi.gov",
+          "org": "Salem Township in Allegan County"
+        }
+      ],
+      "primary": "salemtownshipacmi.gov"
+    },
+    {
+      "id": "MI-sands-township-gwinn",
+      "name": "Sands Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Gwinn",
+      "domains": [
+        {
+          "domain": "sandstownshipmi.gov",
+          "org": "Sands Township"
+        }
+      ],
+      "primary": "sandstownshipmi.gov"
+    },
+    {
+      "id": "MI-saugatuck-township-saugatuck",
+      "name": "Saugatuck Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Saugatuck",
+      "domains": [
+        {
+          "domain": "saugatucktownshipmi.gov",
+          "org": "Saugatuck Township"
+        }
+      ],
+      "primary": "saugatucktownshipmi.gov"
+    },
+    {
+      "id": "MI-schoolcraft-township-vicksburg",
+      "name": "Schoolcraft Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Vicksburg",
+      "domains": [
+        {
+          "domain": "schoolcrafttownshipmi.gov",
+          "org": "Schoolcraft Township"
+        }
+      ],
+      "primary": "schoolcrafttownshipmi.gov"
+    },
+    {
+      "id": "MI-selma-township-cadillac",
+      "name": "Selma Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Cadillac",
+      "domains": [
+        {
+          "domain": "selmatownship-mi.gov",
+          "org": "Selma Township"
+        }
+      ],
+      "primary": "selmatownship-mi.gov"
+    },
+    {
+      "id": "MI-sherman-township-rush",
+      "name": "Sherman Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Rush",
+      "domains": [
+        {
+          "domain": "shermantwphuronmi.gov",
+          "org": "Sherman Township"
+        }
+      ],
+      "primary": "shermantwphuronmi.gov"
+    },
+    {
+      "id": "MI-sherman-township-mason-county-fountain",
+      "name": "Sherman Township, Mason County",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Fountain",
+      "domains": [
+        {
+          "domain": "shermantwpmasonmi.gov",
+          "org": "Sherman Township, Mason County"
+        }
+      ],
+      "primary": "shermantwpmasonmi.gov"
+    },
+    {
+      "id": "MI-sherwood-township-sherwood",
+      "name": "Sherwood Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Sherwood",
+      "domains": [
+        {
+          "domain": "sherwoodtwpmi.gov",
+          "org": "Sherwood Township"
+        }
+      ],
+      "primary": "sherwoodtwpmi.gov"
+    },
+    {
+      "id": "MI-sidney-township-sidney",
+      "name": "Sidney Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Sidney",
+      "domains": [
+        {
+          "domain": "sidneymi.gov",
+          "org": "Sidney Township"
+        }
+      ],
+      "primary": "sidneymi.gov"
+    },
+    {
+      "id": "MI-sigel-township-harbor-beach",
+      "name": "Sigel Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Harbor Beach",
+      "domains": [
+        {
+          "domain": "sigeltownshipmi.gov",
+          "org": "Sigel Township"
+        }
+      ],
+      "primary": "sigeltownshipmi.gov"
+    },
+    {
+      "id": "MI-silver-creek-township-dowagiac",
+      "name": "SILVER CREEK TOWNSHIP",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "DOWAGIAC",
+      "domains": [
+        {
+          "domain": "silvercreektwpmi.gov",
+          "org": "SILVER CREEK TOWNSHIP"
+        }
+      ],
+      "primary": "silvercreektwpmi.gov"
+    },
+    {
+      "id": "MI-somerset-township-somerset-center",
+      "name": "Somerset Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Somerset Center",
+      "domains": [
+        {
+          "domain": "somersettownshipmi.gov",
+          "org": "Somerset Township"
+        }
+      ],
+      "primary": "somersettownshipmi.gov"
+    },
+    {
+      "id": "MI-south-branch-township-cadillac",
+      "name": "South Branch Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Cadillac",
+      "domains": [
+        {
+          "domain": "southbranchtownshipwexfordmi.gov",
+          "org": "South Branch Township"
+        }
+      ],
+      "primary": "southbranchtownshipwexfordmi.gov"
+    },
+    {
+      "id": "MI-south-haven-charter-township-south-haven",
+      "name": "South Haven Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "South Haven",
+      "domains": [
+        {
+          "domain": "southhaventwpmi.gov",
+          "org": "South Haven Charter Township"
+        }
+      ],
+      "primary": "southhaventwpmi.gov"
+    },
+    {
+      "id": "MI-southfield-township-beverly-hill",
+      "name": "Southfield Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Beverly Hill",
+      "domains": [
+        {
+          "domain": "southfieldtownshipmi.gov",
+          "org": "Southfield Township"
+        }
+      ],
+      "primary": "southfieldtownshipmi.gov"
+    },
+    {
+      "id": "MI-speaker-township-melvin",
+      "name": "Speaker Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Melvin",
+      "domains": [
+        {
+          "domain": "speakertwpmi.gov",
+          "org": "Speaker Township"
+        }
+      ],
+      "primary": "speakertwpmi.gov"
+    },
+    {
+      "id": "MI-spencer-township-gowen",
+      "name": "Spencer Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Gowen",
+      "domains": [
+        {
+          "domain": "spencertwpmi.gov",
+          "org": "Spencer Township"
+        }
+      ],
+      "primary": "spencertwpmi.gov"
+    },
+    {
+      "id": "MI-spring-lake-township-spring-lake",
+      "name": "Spring Lake Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Spring Lake",
+      "domains": [
+        {
+          "domain": "springlakemi.gov",
+          "org": "Spring Lake Township"
+        }
+      ],
+      "primary": "springlakemi.gov"
+    },
+    {
+      "id": "MI-springdale-township-copemish",
+      "name": "Springdale Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Copemish",
+      "domains": [
+        {
+          "domain": "springdaletownshipmi.gov",
+          "org": "Springdale Township"
+        }
+      ],
+      "primary": "springdaletownshipmi.gov"
+    },
+    {
+      "id": "MI-springfield-charter-township-davisburg",
+      "name": "Springfield Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Davisburg",
+      "domains": [
+        {
+          "domain": "springfieldchartertownship.gov",
+          "org": "Springfield Charter Township"
+        }
+      ],
+      "primary": "springfieldchartertownship.gov"
+    },
+    {
+      "id": "MI-st-clair-township-saint-clair",
+      "name": "St. Clair Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Saint Clair",
+      "domains": [
+        {
+          "domain": "stclairtwpmi.gov",
+          "org": "St. Clair Township"
+        }
+      ],
+      "primary": "stclairtwpmi.gov"
+    },
+    {
+      "id": "MI-standish-township-board-of-trustees-standish",
+      "name": "Standish Township Board of Trustees",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Standish",
+      "domains": [
+        {
+          "domain": "standishtownship.gov",
+          "org": "Standish Township Board of Trustees"
+        }
+      ],
+      "primary": "standishtownship.gov"
+    },
+    {
+      "id": "MI-sullivan-township-ravenna",
+      "name": "Sullivan Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ravenna",
+      "domains": [
+        {
+          "domain": "sullivantownshipmi.gov",
+          "org": "Sullivan Township"
+        }
+      ],
+      "primary": "sullivantownshipmi.gov"
+    },
+    {
+      "id": "MI-summerfield-township-harrison",
+      "name": "Summerfield Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Harrison",
+      "domains": [
+        {
+          "domain": "summerfieldtwpclaremi.gov",
+          "org": "Summerfield Township"
+        }
+      ],
+      "primary": "summerfieldtwpclaremi.gov"
+    },
+    {
+      "id": "MI-summerfield-township-petersburg",
+      "name": "Summerfield Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Petersburg",
+      "domains": [
+        {
+          "domain": "summerfieldtwpmonroemi.gov",
+          "org": "Summerfield Township"
+        }
+      ],
+      "primary": "summerfieldtwpmonroemi.gov"
+    },
+    {
+      "id": "MI-suttons-bay-township-suttons-bay",
+      "name": "Suttons Bay Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Suttons Bay",
+      "domains": [
+        {
+          "domain": "suttonsbaytownship.gov",
+          "org": "Suttons Bay Township"
+        }
+      ],
+      "primary": "suttonsbaytownship.gov"
+    },
+    {
+      "id": "MI-sylvan-township-chelsea",
+      "name": "Sylvan Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Chelsea",
+      "domains": [
+        {
+          "domain": "sylvantownshipmi.gov",
+          "org": "Sylvan Township"
+        }
+      ],
+      "primary": "sylvantownshipmi.gov"
+    },
+    {
+      "id": "MI-the-charter-township-of-genesee-genesee",
+      "name": "The Charter Township of Genesee",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Genesee",
+      "domains": [
+        {
+          "domain": "geneseetwpmi.gov",
+          "org": "The Charter Township of Genesee"
+        }
+      ],
+      "primary": "geneseetwpmi.gov"
+    },
+    {
+      "id": "MI-thetford-township-clio",
+      "name": "Thetford Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Clio",
+      "domains": [
+        {
+          "domain": "thetfordtwpmi.gov",
+          "org": "Thetford Township"
+        }
+      ],
+      "primary": "thetfordtwpmi.gov"
+    },
+    {
+      "id": "MI-thompson-township-manistique",
+      "name": "Thompson Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Manistique",
+      "domains": [
+        {
+          "domain": "thompsonmi.gov",
+          "org": "Thompson Township"
+        }
+      ],
+      "primary": "thompsonmi.gov"
+    },
+    {
+      "id": "MI-tittabawassee-township-freeland",
+      "name": "Tittabawassee Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Freeland",
+      "domains": [
+        {
+          "domain": "tittabawasseetwpmi.gov",
+          "org": "Tittabawassee Township"
+        }
+      ],
+      "primary": "tittabawasseetwpmi.gov"
+    },
+    {
+      "id": "MI-township-of-albert-lewiston",
+      "name": "Township of Albert",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lewiston",
+      "domains": [
+        {
+          "domain": "alberttwpmi.gov",
+          "org": "Township of Albert"
+        }
+      ],
+      "primary": "alberttwpmi.gov"
+    },
+    {
+      "id": "MI-township-of-alpine-comstock-park",
+      "name": "Township of Alpine",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Comstock Park",
+      "domains": [
+        {
+          "domain": "alpinetwp.gov",
+          "org": "Township of Alpine"
+        }
+      ],
+      "primary": "alpinetwp.gov"
+    },
+    {
+      "id": "MI-township-of-burns-byron",
+      "name": "Township of Burns",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "BYRON",
+      "domains": [
+        {
+          "domain": "burnstwpmi.gov",
+          "org": "Township of Burns"
+        }
+      ],
+      "primary": "burnstwpmi.gov"
+    },
+    {
+      "id": "MI-township-of-convis-marshall",
+      "name": "Township of Convis",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "MARSHALL",
+      "domains": [
+        {
+          "domain": "convistownshipmi.gov",
+          "org": "Township of Convis"
+        }
+      ],
+      "primary": "convistownshipmi.gov"
+    },
+    {
+      "id": "MI-township-of-davison-davison",
+      "name": "Township of Davison",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Davison",
+      "domains": [
+        {
+          "domain": "davisontwp-mi.gov",
+          "org": "Township of Davison"
+        }
+      ],
+      "primary": "davisontwp-mi.gov"
+    },
+    {
+      "id": "MI-township-of-hay-beaverton",
+      "name": "Township of Hay",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Beaverton",
+      "domains": [
+        {
+          "domain": "haytownshipmi.gov",
+          "org": "Township of Hay"
+        }
+      ],
+      "primary": "haytownshipmi.gov"
+    },
+    {
+      "id": "MI-township-of-merritt-munger",
+      "name": "Township of Merritt",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Munger",
+      "domains": [
+        {
+          "domain": "merritttownship.gov",
+          "org": "Township of Merritt"
+        }
+      ],
+      "primary": "merritttownship.gov"
+    },
+    {
+      "id": "MI-township-of-sanilac-port-sanilac",
+      "name": "Township of Sanilac",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Port Sanilac",
+      "domains": [
+        {
+          "domain": "sanilactownshipmi.gov",
+          "org": "Township of Sanilac"
+        }
+      ],
+      "primary": "sanilactownshipmi.gov"
+    },
+    {
+      "id": "MI-township-of-scio-ann-arbor",
+      "name": "Township of Scio",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ann Arbor",
+      "domains": [
+        {
+          "domain": "sciotownshipmi.gov",
+          "org": "Township of Scio"
+        }
+      ],
+      "primary": "sciotownshipmi.gov"
+    },
+    {
+      "id": "MI-township-of-thomas-saginaw",
+      "name": "Township of Thomas",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Saginaw",
+      "domains": [
+        {
+          "domain": "thomastwpmi.gov",
+          "org": "Township of Thomas"
+        }
+      ],
+      "primary": "thomastwpmi.gov"
+    },
+    {
+      "id": "MI-township-of-volinia-cassopolis",
+      "name": "Township of Volinia",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Cassopolis",
+      "domains": [
+        {
+          "domain": "voliniatownship.gov",
+          "org": "Township of Volinia"
+        }
+      ],
+      "primary": "voliniatownship.gov"
+    },
+    {
+      "id": "MI-tuscola-township-vassar",
+      "name": "Tuscola Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Vassar",
+      "domains": [
+        {
+          "domain": "tuscolatownshipmi.gov",
+          "org": "Tuscola Township"
+        }
+      ],
+      "primary": "tuscolatownshipmi.gov"
+    },
+    {
+      "id": "MI-unadilla-township-gregory",
+      "name": "Unadilla Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Gregory",
+      "domains": [
+        {
+          "domain": "unadillatwpmi.gov",
+          "org": "Unadilla Township"
+        }
+      ],
+      "primary": "unadillatwpmi.gov"
+    },
+    {
+      "id": "MI-valley-township-allegan",
+      "name": "Valley Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Allegan",
+      "domains": [
+        {
+          "domain": "valleytownshipmi.gov",
+          "org": "Valley Township"
+        }
+      ],
+      "primary": "valleytownshipmi.gov"
+    },
+    {
+      "id": "MI-van-buren-charter-township-van-buren-township",
+      "name": "Van Buren Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Van Buren Township",
+      "domains": [
+        {
+          "domain": "vbtmi.gov",
+          "org": "Van Buren Charter Township"
+        }
+      ],
+      "primary": "vbtmi.gov"
+    },
+    {
+      "id": "MI-van-buren-township-downtown-development-authority-van-buren-township",
+      "name": "Van Buren Township Downtown Development Authority",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Van Buren Township",
+      "domains": [
+        {
+          "domain": "vbtmidda.gov",
+          "org": "Van Buren Township Downtown Development Authority"
+        }
+      ],
+      "primary": "vbtmidda.gov"
+    },
+    {
+      "id": "MI-vergennes-township-lowell",
+      "name": "Vergennes Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lowell",
+      "domains": [
+        {
+          "domain": "vergennestwpmi.gov",
+          "org": "Vergennes Township"
+        }
+      ],
+      "primary": "vergennestwpmi.gov"
+    },
+    {
+      "id": "MI-vermontville-mi-vermontville",
+      "name": "Vermontville MI",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Vermontville",
+      "domains": [
+        {
+          "domain": "vermontville-mi.gov",
+          "org": "Vermontville MI"
+        }
+      ],
+      "primary": "vermontville-mi.gov"
+    },
+    {
+      "id": "MI-vermontville-township-vermontville",
+      "name": "Vermontville Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Vermontville",
+      "domains": [
+        {
+          "domain": "vermontvilletownshipmi.gov",
+          "org": "Vermontville Township"
+        }
+      ],
+      "primary": "vermontvilletownshipmi.gov"
+    },
+    {
+      "id": "MI-vernon-township-durand",
+      "name": "Vernon Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Durand",
+      "domains": [
+        {
+          "domain": "vernontwp-mi.gov",
+          "org": "Vernon Township"
+        }
+      ],
+      "primary": "vernontwp-mi.gov"
+    },
+    {
+      "id": "MI-vienna-township-johannesburg",
+      "name": "Vienna Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "JOHANNESBURG",
+      "domains": [
+        {
+          "domain": "viennatownshipmi.gov",
+          "org": "Vienna Township"
+        }
+      ],
+      "primary": "viennatownshipmi.gov"
+    },
+    {
+      "id": "MI-village-of-almont-almont",
+      "name": "Village of Almont",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Almont",
+      "domains": [
+        {
+          "domain": "almontmichigan.gov",
+          "org": "Village of Almont"
+        }
+      ],
+      "primary": "almontmichigan.gov"
+    },
+    {
+      "id": "MI-village-of-alpha-alpha",
+      "name": "Village of Alpha",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Alpha",
+      "domains": [
+        {
+          "domain": "villageofalphami.gov",
+          "org": "Village of Alpha"
+        }
+      ],
+      "primary": "villageofalphami.gov"
+    },
+    {
+      "id": "MI-village-of-bear-lake-bear-lake",
+      "name": "Village of Bear Lake",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Bear Lake",
+      "domains": [
+        {
+          "domain": "villageofbearlakemi.gov",
+          "org": "Village of Bear Lake"
+        }
+      ],
+      "primary": "villageofbearlakemi.gov"
+    },
+    {
+      "id": "MI-village-of-beverly-hills-beverly-hills",
+      "name": "Village of Beverly Hills",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Beverly Hills",
+      "domains": [
+        {
+          "domain": "beverlyhillsmi.gov",
+          "org": "Village of Beverly Hills"
+        }
+      ],
+      "primary": "beverlyhillsmi.gov"
+    },
+    {
+      "id": "MI-village-of-blissfield-blissfield",
+      "name": "Village of Blissfield",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Blissfield",
+      "domains": [
+        {
+          "domain": "blissfieldmichigan.gov",
+          "org": "Village of Blissfield"
+        }
+      ],
+      "primary": "blissfieldmichigan.gov"
+    },
+    {
+      "id": "MI-village-of-bloomingdale-bloomingdale",
+      "name": "Village of Bloomingdale",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Bloomingdale",
+      "domains": [
+        {
+          "domain": "bloomingdalevillagemi.gov",
+          "org": "Village of Bloomingdale"
+        }
+      ],
+      "primary": "bloomingdalevillagemi.gov"
+    },
+    {
+      "id": "MI-village-of-clayton-clayton",
+      "name": "Village of Clayton",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Clayton",
+      "domains": [
+        {
+          "domain": "villageofclaytonmi.gov",
+          "org": "Village of Clayton"
+        }
+      ],
+      "primary": "villageofclaytonmi.gov"
+    },
+    {
+      "id": "MI-village-of-copemish-copemish",
+      "name": "Village of Copemish",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Copemish",
+      "domains": [
+        {
+          "domain": "villageofcopemish.gov",
+          "org": "Village of Copemish"
+        }
+      ],
+      "primary": "villageofcopemish.gov"
+    },
+    {
+      "id": "MI-village-of-deckerville-deckerville",
+      "name": "Village of Deckerville",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Deckerville",
+      "domains": [
+        {
+          "domain": "deckerville-mi.gov",
+          "org": "Village of Deckerville"
+        }
+      ],
+      "primary": "deckerville-mi.gov"
+    },
+    {
+      "id": "MI-village-of-deerfield-deerfield",
+      "name": "Village of Deerfield",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Deerfield",
+      "domains": [
+        {
+          "domain": "deerfieldmichigan.gov",
+          "org": "Village of Deerfield"
+        }
+      ],
+      "primary": "deerfieldmichigan.gov"
+    },
+    {
+      "id": "MI-village-of-dundee-dundee",
+      "name": "Village of Dundee",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Dundee",
+      "domains": [
+        {
+          "domain": "dundeevillagemi.gov",
+          "org": "Village of Dundee"
+        }
+      ],
+      "primary": "dundeevillagemi.gov"
+    },
+    {
+      "id": "MI-village-of-eau-claire-eau-claire",
+      "name": "Village of Eau Claire",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Eau Claire",
+      "domains": [
+        {
+          "domain": "eauclairevillage-mi.gov",
+          "org": "Village of Eau Claire"
+        }
+      ],
+      "primary": "eauclairevillage-mi.gov"
+    },
+    {
+      "id": "MI-village-of-eau-claire-police-department-eau-claire",
+      "name": "Village of Eau Claire Police Department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Eau Claire",
+      "domains": [
+        {
+          "domain": "eauclairemipd.gov",
+          "org": "Village of Eau Claire Police Department"
+        }
+      ],
+      "primary": "eauclairemipd.gov"
+    },
+    {
+      "id": "MI-village-of-elberta-elberta",
+      "name": "Village of Elberta",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Elberta",
+      "domains": [
+        {
+          "domain": "villageofelbertami.gov",
+          "org": "Village of Elberta"
+        }
+      ],
+      "primary": "villageofelbertami.gov"
+    },
+    {
+      "id": "MI-village-of-farwell-farwell",
+      "name": "Village Of Farwell",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Farwell",
+      "domains": [
+        {
+          "domain": "villageoffarwellmi.gov",
+          "org": "Village Of Farwell"
+        }
+      ],
+      "primary": "villageoffarwellmi.gov"
+    },
+    {
+      "id": "MI-village-of-franklin-franklin",
+      "name": "Village of Franklin",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Franklin",
+      "domains": [
+        {
+          "domain": "franklinvillagemi.gov",
+          "org": "Village of Franklin"
+        }
+      ],
+      "primary": "franklinvillagemi.gov"
+    },
+    {
+      "id": "MI-village-of-grosse-pointe-shores-grosse-pointe-shores",
+      "name": "Village of Grosse Pointe Shores",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Grosse Pointe Shores",
+      "domains": [
+        {
+          "domain": "gpshoresmi.gov",
+          "org": "Village of Grosse Pointe Shores"
+        }
+      ],
+      "primary": "gpshoresmi.gov"
+    },
+    {
+      "id": "MI-village-of-hesperia-hesperia",
+      "name": "Village of Hesperia",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Hesperia",
+      "domains": [
+        {
+          "domain": "hesperiavillage.gov",
+          "org": "Village of Hesperia"
+        }
+      ],
+      "primary": "hesperiavillage.gov"
+    },
+    {
+      "id": "MI-village-of-hubbardston-hubbardston",
+      "name": "Village of Hubbardston",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Hubbardston",
+      "domains": [
+        {
+          "domain": "villageofhubbardston.gov",
+          "org": "Village of Hubbardston"
+        }
+      ],
+      "primary": "villageofhubbardston.gov"
+    },
+    {
+      "id": "MI-village-of-kalkaska-kalkaska",
+      "name": "Village of Kalkaska",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Kalkaska",
+      "domains": [
+        {
+          "domain": "kalkaskavillagemi.gov",
+          "org": "Village of Kalkaska"
+        }
+      ],
+      "primary": "kalkaskavillagemi.gov"
+    },
+    {
+      "id": "MI-village-of-kalkaska-department-of-public-safety-kalkaska",
+      "name": "Village of Kalkaska Department of Public Safety",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Kalkaska",
+      "domains": [
+        {
+          "domain": "kalkaskapolicemi.gov",
+          "org": "Village of Kalkaska Department of Public Safety"
+        }
+      ],
+      "primary": "kalkaskapolicemi.gov"
+    },
+    {
+      "id": "MI-village-of-lakeview-lakeview",
+      "name": "Village of Lakeview",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Lakeview",
+      "domains": [
+        {
+          "domain": "villageoflakeviewmi.gov",
+          "org": "Village of Lakeview"
+        }
+      ],
+      "primary": "villageoflakeviewmi.gov"
+    },
+    {
+      "id": "MI-village-of-leonard-leonard",
+      "name": "Village of Leonard",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Leonard",
+      "domains": [
+        {
+          "domain": "leonardmi.gov",
+          "org": "Village of Leonard"
+        }
+      ],
+      "primary": "leonardmi.gov"
+    },
+    {
+      "id": "MI-village-of-mendon-mendon",
+      "name": "Village of Mendon",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Mendon",
+      "domains": [
+        {
+          "domain": "villageofmendonmi.gov",
+          "org": "Village of Mendon"
+        }
+      ],
+      "primary": "villageofmendonmi.gov"
+    },
+    {
+      "id": "MI-village-of-morley-morley",
+      "name": "Village of Morley",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Morley",
+      "domains": [
+        {
+          "domain": "villageofmorleymi.gov",
+          "org": "Village of Morley"
+        }
+      ],
+      "primary": "villageofmorleymi.gov"
+    },
+    {
+      "id": "MI-village-of-muir-muir",
+      "name": "Village of Muir",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Muir",
+      "domains": [
+        {
+          "domain": "villageofmuirmi.gov",
+          "org": "Village of Muir"
+        }
+      ],
+      "primary": "villageofmuirmi.gov"
+    },
+    {
+      "id": "MI-village-of-new-haven-new-haven",
+      "name": "Village of New Haven",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "New Haven",
+      "domains": [
+        {
+          "domain": "villageofnewhaven-mi.gov",
+          "org": "Village of New Haven"
+        }
+      ],
+      "primary": "villageofnewhaven-mi.gov"
+    },
+    {
+      "id": "MI-village-of-newberry-newberry-village",
+      "name": "Village of Newberry",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Newberry Village",
+      "domains": [
+        {
+          "domain": "newberrymi.gov",
+          "org": "Village of Newberry"
+        }
+      ],
+      "primary": "newberrymi.gov"
+    },
+    {
+      "id": "MI-village-of-owendale-owendale",
+      "name": "Village of Owendale",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Owendale",
+      "domains": [
+        {
+          "domain": "owendalemi.gov",
+          "org": "Village of Owendale"
+        }
+      ],
+      "primary": "owendalemi.gov"
+    },
+    {
+      "id": "MI-village-of-oxford-oxford",
+      "name": "Village of Oxford",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Oxford",
+      "domains": [
+        {
+          "domain": "oxfordmi.gov",
+          "org": "Village of Oxford"
+        }
+      ],
+      "primary": "oxfordmi.gov"
+    },
+    {
+      "id": "MI-village-of-pewamo-pewamo",
+      "name": "Village of Pewamo",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Pewamo",
+      "domains": [
+        {
+          "domain": "pewamo.gov",
+          "org": "Village of Pewamo"
+        }
+      ],
+      "primary": "pewamo.gov"
+    },
+    {
+      "id": "MI-village-of-richland-richland",
+      "name": "Village of Richland",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Richland",
+      "domains": [
+        {
+          "domain": "villageofrichlandmi.gov",
+          "org": "Village of Richland"
+        }
+      ],
+      "primary": "villageofrichlandmi.gov"
+    },
+    {
+      "id": "MI-village-of-romeo-romeo",
+      "name": "Village of Romeo",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Romeo",
+      "domains": [
+        {
+          "domain": "villageofromeomi.gov",
+          "org": "Village of Romeo"
+        }
+      ],
+      "primary": "villageofromeomi.gov"
+    },
+    {
+      "id": "MI-village-of-schoolcraft-schoolcraft",
+      "name": "Village of Schoolcraft",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Schoolcraft",
+      "domains": [
+        {
+          "domain": "villageofschoolcraftmi.gov",
+          "org": "Village of Schoolcraft"
+        }
+      ],
+      "primary": "villageofschoolcraftmi.gov"
+    },
+    {
+      "id": "MI-village-of-sebewaing-sebewaing",
+      "name": "Village of Sebewaing",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Sebewaing",
+      "domains": [
+        {
+          "domain": "sebewaingmi.gov",
+          "org": "Village of Sebewaing"
+        }
+      ],
+      "primary": "sebewaingmi.gov"
+    },
+    {
+      "id": "MI-village-of-springport-springport",
+      "name": "Village of Springport",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Springport",
+      "domains": [
+        {
+          "domain": "springportmi.gov",
+          "org": "Village of Springport"
+        }
+      ],
+      "primary": "springportmi.gov"
+    },
+    {
+      "id": "MI-village-of-stockbridge-stockbridge",
+      "name": "Village of Stockbridge",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Stockbridge",
+      "domains": [
+        {
+          "domain": "villageofstockbridgemi.gov",
+          "org": "Village of Stockbridge"
+        }
+      ],
+      "primary": "villageofstockbridgemi.gov"
+    },
+    {
+      "id": "MI-village-of-vandalia-vandalia",
+      "name": "Village Of Vandalia",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Vandalia",
+      "domains": [
+        {
+          "domain": "vandaliami.gov",
+          "org": "Village Of Vandalia"
+        }
+      ],
+      "primary": "vandaliami.gov"
+    },
+    {
+      "id": "MI-village-of-woodland-woodland",
+      "name": "Village of Woodland",
+      "kind": "Village",
+      "state": "MI",
+      "mailingCity": "Woodland",
+      "domains": [
+        {
+          "domain": "villageofwoodlandmi.gov",
+          "org": "Village of Woodland"
+        }
+      ],
+      "primary": "villageofwoodlandmi.gov"
+    },
+    {
+      "id": "MI-warren-township-coleman",
+      "name": "Warren Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Coleman",
+      "domains": [
+        {
+          "domain": "warrentwpmi.gov",
+          "org": "Warren Township"
+        }
+      ],
+      "primary": "warrentwpmi.gov"
+    },
+    {
+      "id": "MI-washington-township-gratiot-county-ashley",
+      "name": "Washington Township, Gratiot County",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ashley",
+      "domains": [
+        {
+          "domain": "washingtontwpgratiot.gov",
+          "org": "Washington Township, Gratiot County"
+        }
+      ],
+      "primary": "washingtontwpgratiot.gov"
+    },
+    {
+      "id": "MI-waterloo-township-munith",
+      "name": "Waterloo Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Munith",
+      "domains": [
+        {
+          "domain": "waterlootwpmi.gov",
+          "org": "Waterloo Township"
+        }
+      ],
+      "primary": "waterlootwpmi.gov"
+    },
+    {
+      "id": "MI-watersmeet-township-watersmeet",
+      "name": "Watersmeet Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Watersmeet",
+      "domains": [
+        {
+          "domain": "watersmeetmi.gov",
+          "org": "Watersmeet Township"
+        }
+      ],
+      "primary": "watersmeetmi.gov"
+    },
+    {
+      "id": "MI-watertown-charter-township-grand-ledge",
+      "name": "Watertown Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Grand Ledge",
+      "domains": [
+        {
+          "domain": "watertownmi.gov",
+          "org": "Watertown Charter Township"
+        }
+      ],
+      "primary": "watertownmi.gov"
+    },
+    {
+      "id": "MI-watertown-township-fostoria",
+      "name": "Watertown Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Fostoria",
+      "domains": [
+        {
+          "domain": "watertowntownshiptuscolami.gov",
+          "org": "Watertown Township"
+        }
+      ],
+      "primary": "watertowntownshiptuscolami.gov"
+    },
+    {
+      "id": "MI-watson-township-allegan",
+      "name": "Watson Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Allegan",
+      "domains": [
+        {
+          "domain": "watsontownshipmi.gov",
+          "org": "Watson Township"
+        }
+      ],
+      "primary": "watsontownshipmi.gov"
+    },
+    {
+      "id": "MI-waverly-township-paw-paw",
+      "name": "Waverly Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Paw Paw",
+      "domains": [
+        {
+          "domain": "waverlytownship-vbcmi.gov",
+          "org": "Waverly Township"
+        }
+      ],
+      "primary": "waverlytownship-vbcmi.gov"
+    },
+    {
+      "id": "MI-west-traverse-township-harbor-springs",
+      "name": "West Traverse Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Harbor Springs",
+      "domains": [
+        {
+          "domain": "westtraversetownship.gov",
+          "org": "West Traverse Township"
+        }
+      ],
+      "primary": "westtraversetownship.gov"
+    },
+    {
+      "id": "MI-wheatfield-township-williamston",
+      "name": "Wheatfield Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Williamston",
+      "domains": [
+        {
+          "domain": "wheatfieldtwpmi.gov",
+          "org": "Wheatfield Township"
+        }
+      ],
+      "primary": "wheatfieldtwpmi.gov"
+    },
+    {
+      "id": "MI-white-oak-township-webberville",
+      "name": "White Oak Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Webberville",
+      "domains": [
+        {
+          "domain": "whiteoaktwpmi.gov",
+          "org": "White Oak Township"
+        }
+      ],
+      "primary": "whiteoaktwpmi.gov"
+    },
+    {
+      "id": "MI-whitefish-township-paradise",
+      "name": "Whitefish Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Paradise",
+      "domains": [
+        {
+          "domain": "whitefishtownshipmi.gov",
+          "org": "Whitefish Township"
+        }
+      ],
+      "primary": "whitefishtownshipmi.gov"
+    },
+    {
+      "id": "MI-whiteford-township-ottawa-lake",
+      "name": "Whiteford Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Ottawa Lake",
+      "domains": [
+        {
+          "domain": "whitefordtownshipmi.gov",
+          "org": "Whiteford Township"
+        }
+      ],
+      "primary": "whitefordtownshipmi.gov"
+    },
+    {
+      "id": "MI-whitewater-township-williamsburg",
+      "name": "Whitewater Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Williamsburg",
+      "domains": [
+        {
+          "domain": "whitewatertownshipmi.gov",
+          "org": "Whitewater Township"
+        }
+      ],
+      "primary": "whitewatertownshipmi.gov"
+    },
+    {
+      "id": "MI-whitney-township-tawas-city",
+      "name": "Whitney Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Tawas City",
+      "domains": [
+        {
+          "domain": "whitneytownship.gov",
+          "org": "Whitney Township"
+        }
+      ],
+      "primary": "whitneytownship.gov"
+    },
+    {
+      "id": "MI-wilber-township-east-tawas",
+      "name": "Wilber Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "East Tawas",
+      "domains": [
+        {
+          "domain": "wilbertwpmi.gov",
+          "org": "Wilber Township"
+        }
+      ],
+      "primary": "wilbertwpmi.gov"
+    },
+    {
+      "id": "MI-wilcox-township-white-cloud",
+      "name": "Wilcox Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "White Cloud",
+      "domains": [
+        {
+          "domain": "wilcoxtownshipmi.gov",
+          "org": "Wilcox Township"
+        }
+      ],
+      "primary": "wilcoxtownshipmi.gov"
+    },
+    {
+      "id": "MI-williams-charter-township-auburn",
+      "name": "Williams Charter Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Auburn",
+      "domains": [
+        {
+          "domain": "williamstwpmi.gov",
+          "org": "Williams Charter Township"
+        }
+      ],
+      "primary": "williamstwpmi.gov"
+    },
+    {
+      "id": "MI-williamston-police-department-williamston",
+      "name": "Williamston Police Department",
+      "kind": "Other",
+      "state": "MI",
+      "mailingCity": "Williamston",
+      "domains": [
+        {
+          "domain": "williamstonmipd.gov",
+          "org": "Williamston Police Department"
+        }
+      ],
+      "primary": "williamstonmipd.gov"
+    },
+    {
+      "id": "MI-williamstown-township-williamstown",
+      "name": "Williamstown Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Williamstown",
+      "domains": [
+        {
+          "domain": "williamstownmi.gov",
+          "org": "Williamstown Township"
+        }
+      ],
+      "primary": "williamstownmi.gov"
+    },
+    {
+      "id": "MI-winfield-township-howard-city",
+      "name": "WInfield Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Howard City",
+      "domains": [
+        {
+          "domain": "winfieldtownshipmi.gov",
+          "org": "WInfield Township"
+        }
+      ],
+      "primary": "winfieldtownshipmi.gov"
+    },
+    {
+      "id": "MI-woodstock-township-addison",
+      "name": "Woodstock Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Addison",
+      "domains": [
+        {
+          "domain": "woodstockmi.gov",
+          "org": "Woodstock Township"
+        }
+      ],
+      "primary": "woodstockmi.gov"
+    },
+    {
+      "id": "MI-worth-township-lexington",
+      "name": "Worth Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Lexington",
+      "domains": [
+        {
+          "domain": "worthtownshipmi.gov",
+          "org": "Worth Township"
+        }
+      ],
+      "primary": "worthtownshipmi.gov"
+    },
+    {
+      "id": "MI-wright-township-marne",
+      "name": "Wright Township",
+      "kind": "Township",
+      "state": "MI",
+      "mailingCity": "Marne",
+      "domains": [
+        {
+          "domain": "wrighttownshipottawami.gov",
+          "org": "Wright Township"
+        }
+      ],
+      "primary": "wrighttownshipottawami.gov"
+    }
+  ],
+  "snapshot_id": "b706aeb146b9bd2d7162f1ec08933f155f7cb1ed3d118911b9574351a039a69b"
+}
