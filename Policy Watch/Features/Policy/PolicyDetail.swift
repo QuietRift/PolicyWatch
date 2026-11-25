@@ -7,16 +7,21 @@ struct PolicyDetail: View {
      var body: some View {
          List {
              Section {
-                 Text(item.title)
-                     .font(.title2.bold())
-                     .accessibilityAddTraits(.isHeader)
+                 Text(item.headline)
+                    .font(.title2.bold())
+                    .accessibilityAddTraits(.isHeader)
+                if item.headline != item.title {
+                    Text("Official title: " + item.title)
+                        .font(.footnote)
+                        .foregroundStyle(Palette.slate)
+                    }
+
                  StageBadge(label: item.stageLabel, stage: item.stage)
              } header: {
                  Text(item.place)
              }
-             Section(item.isSample ? "What this means" : "Publisher abstract") {
-                 Text(item.summary)
-             }
+             ImpactSection(impact: item.impact)
+             
              if let lastAction = item.lastAction {
                  Section("Last action") {
                      Text(lastAction)

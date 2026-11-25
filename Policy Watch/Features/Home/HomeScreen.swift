@@ -12,24 +12,33 @@ struct HomeScreen: View {
 
     var body: some View {
         List {
-            Section("Your watchlist") {
-                if watchlist.isEmpty {
-                    Text("Follow a policy to see its next action here.")
-                        .foregroundStyle(Palette.slate)
-                }
-                ForEach(watchlist) { item in
-                    NavigationLink {
-                        PolicyDetail(item: item)
-                    } label: {
-                        PolicyRow(item: item)
-                    }
-                }
-                if followed.count > watchlist.count {
-                    NavigationLink("See all " + String(followed.count) + " followed") {
-                        PolicyShelf(shelf: .watch)
-                    }
-                }
-            }
+            Section {
+                            if watchlist.isEmpty {
+                                Text("Follow a policy to see its next action here.")
+                                    .foregroundStyle(Palette.slate)
+                            }
+                            ForEach(watchlist) { item in
+                                NavigationLink {
+                                    PolicyDetail(item: item)
+                                } label: {
+                                    PolicyRow(item: item)
+                                }
+                            }
+                        } header: {
+                            HStack {
+                                Text("Your watchlist")
+                                Spacer()
+                                if Watchlist.showsSeeAll(followed.count) {
+                                    NavigationLink("See all " + String(followed.count)) {
+                                        PolicyShelf(shelf: .watch)
+                                    }
+                                    .font(.subheadline.weight(.semibold))
+                                    .textCase(nil)
+                                    .accessibilityHint("Opens your full watchlist")
+                                }
+                            }
+                        }
+
             Section {
                 ForEach(BillLevel.allCases) { level in
                     VStack(alignment: .leading, spacing: 8) {
@@ -120,10 +129,11 @@ struct TrendingCard: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
-            Text(bill.policy.title)
+            Text(bill.policy.headline)
                 .font(.subheadline.weight(.semibold))
-                .lineLimit(3)
+                .lineLimit(2)
                 .multilineTextAlignment(.leading)
+
             Spacer(minLength: 0)
             StageBadge(label: bill.policy.stage.rawValue, stage: bill.policy.stage)
             Text(bill.searches.formatted() + " searches · demo")
@@ -148,8 +158,9 @@ struct PolicyRow: View {
             Text(item.isSample ? "Sample · " + item.place : item.place)
                 .font(.footnote)
                 .foregroundStyle(Palette.slate)
-            Text(item.title)
+            Text(item.headline)
                 .font(.headline)
+                .lineLimit(2)
             StageBadge(label: item.stageLabel, stage: item.stage)
         }
         .padding(.vertical, 4)
